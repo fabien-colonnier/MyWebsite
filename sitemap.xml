@@ -6,43 +6,43 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://temp.com/</loc>
+  <loc>https://fabien-colonnier.github.io/</loc>
   <lastmod>2019-06-05T11:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://temp.com/AutoIndex_NOTUSED/</loc>
+  <loc>https://fabien-colonnier.github.io/AutoIndex_NOTUSED/</loc>
   <lastmod>2019-05-03T07:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://temp.com/archive.html</loc>
-  <lastmod>2019-06-05T11:54:00Z</lastmod>
+  <loc>https://fabien-colonnier.github.io/archive.html</loc>
+  <lastmod>2019-06-05T12:02:00Z</lastmod>
  </url>
  <url>
-  <loc>https://temp.com/categories/</loc>
+  <loc>https://fabien-colonnier.github.io/categories/</loc>
   <lastmod>2019-05-03T07:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://temp.com/cv/</loc>
+  <loc>https://fabien-colonnier.github.io/cv/</loc>
   <lastmod>2019-06-05T11:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://temp.com/galleries/</loc>
+  <loc>https://fabien-colonnier.github.io/galleries/</loc>
   <lastmod>2019-05-03T07:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://temp.com/listings/</loc>
+  <loc>https://fabien-colonnier.github.io/listings/</loc>
   <lastmod>2019-05-03T07:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://temp.com/projects/</loc>
+  <loc>https://fabien-colonnier.github.io/projects/</loc>
   <lastmod>2019-06-05T11:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://temp.com/publications/</loc>
+  <loc>https://fabien-colonnier.github.io/publications/</loc>
   <lastmod>2019-06-05T11:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://temp.com/research/</loc>
+  <loc>https://fabien-colonnier.github.io/research/</loc>
   <lastmod>2019-06-05T11:52:00Z</lastmod>
  </url>
 </urlset>

@@ -1,4 +1,4 @@
-Sitemap: https://temp.com/sitemapindex.xml
+Sitemap: https://fabien-colonnier.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: temp.com
+Host: fabien-colonnier.github.io
