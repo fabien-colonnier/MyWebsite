@@ -20,7 +20,7 @@ BLOG_AUTHOR = "Fabien Colonnier"  # (translatable)
 BLOG_TITLE = "Fabien Colonnier"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://temp.com/"
+SITE_URL = "https://fabien-colonnier.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://temp.com/"
@@ -407,7 +407,7 @@ HIDDEN_TAGS = ['mathjax']
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category.html (list of posts for a category)
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category RSS_EXTENSION (RSS feed for a category)
 # (translatable)
-# CATEGORY_PATH = "categories"
+# CATEGORY_PATH = "categorinuses"
 # CATEGORY_PREFIX = "cat_"
 
 # By default, the list of categories is stored in
