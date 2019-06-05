@@ -6,43 +6,43 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://fabien-colonnier.github.io/</loc>
+  <loc>https://fabien-colonnier.github.io/MyOwnWebsite/</loc>
   <lastmod>2019-06-05T11:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fabien-colonnier.github.io/AutoIndex_NOTUSED/</loc>
+  <loc>https://fabien-colonnier.github.io/MyOwnWebsite/AutoIndex_NOTUSED/</loc>
   <lastmod>2019-05-03T07:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fabien-colonnier.github.io/archive.html</loc>
-  <lastmod>2019-06-05T12:02:00Z</lastmod>
+  <loc>https://fabien-colonnier.github.io/MyOwnWebsite/archive.html</loc>
+  <lastmod>2019-06-05T12:17:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fabien-colonnier.github.io/categories/</loc>
+  <loc>https://fabien-colonnier.github.io/MyOwnWebsite/categories/</loc>
   <lastmod>2019-05-03T07:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fabien-colonnier.github.io/cv/</loc>
+  <loc>https://fabien-colonnier.github.io/MyOwnWebsite/cv/</loc>
   <lastmod>2019-06-05T11:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fabien-colonnier.github.io/galleries/</loc>
+  <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/</loc>
   <lastmod>2019-05-03T07:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fabien-colonnier.github.io/listings/</loc>
+  <loc>https://fabien-colonnier.github.io/MyOwnWebsite/listings/</loc>
   <lastmod>2019-05-03T07:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fabien-colonnier.github.io/projects/</loc>
+  <loc>https://fabien-colonnier.github.io/MyOwnWebsite/projects/</loc>
   <lastmod>2019-06-05T11:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fabien-colonnier.github.io/publications/</loc>
+  <loc>https://fabien-colonnier.github.io/MyOwnWebsite/publications/</loc>
   <lastmod>2019-06-05T11:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://fabien-colonnier.github.io/research/</loc>
+  <loc>https://fabien-colonnier.github.io/MyOwnWebsite/research/</loc>
   <lastmod>2019-06-05T11:52:00Z</lastmod>
  </url>
 </urlset>

@@ -6,15 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://fabien-colonnier.github.io/galleries/rss.xml</loc>
-  <lastmod>2019-06-05T12:02:00Z</lastmod>
+  <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/rss.xml</loc>
+  <lastmod>2019-06-05T12:17:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://fabien-colonnier.github.io/rss.xml</loc>
-  <lastmod>2019-06-05T12:02:00Z</lastmod>
+  <loc>https://fabien-colonnier.github.io/MyOwnWebsite/rss.xml</loc>
+  <lastmod>2019-06-05T12:16:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://fabien-colonnier.github.io/sitemap.xml</loc>
-  <lastmod>2019-06-05T12:02:00Z</lastmod>
+  <loc>https://fabien-colonnier.github.io/MyOwnWebsite/sitemap.xml</loc>
+  <lastmod>2019-06-05T12:17:00Z</lastmod>
  </sitemap>
 </sitemapindex>
