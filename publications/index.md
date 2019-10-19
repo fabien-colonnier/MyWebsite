@@ -28,6 +28,8 @@ F.L. Roubieu, J.R. Serres, <b>F. Colonnier</b>, N. Franceschini, S. Viollet and 
 
 <h1> Conference proceedings </h1>
 
+<b>F. Colonnier</b>, S. Viollet and F. Ruffier, "ACEbot: robotic behaviors provide new insights on insect visual pursuit, motion camouflage and interception", <i>International Conference on Invertebrate Vision ICIV</i>, Bäckaskog Castle, Sweden, August 6-11, 2019
+
 <b>F. Colonnier</b>, L. Della Vedova, R.S.H. Teo and G. Orchard "Obstacle Avoidance using Eventbased Visual Sensor and Time-To-Contact Processing", <i>Australasian Conference on Robotics and Automation</i>, Lincoln, New Zealand, Dec 2018 <a href="https://ssl.linklings.net/conferences/acra/acra2018_proceedings/views/includes/files/pap104s1-file1.pdf"> PDF</a>, <a href="https://linklings.s3.amazonaws.com/organizations/acra/acra2018/submissions/stype101/UGjfY-pap104s1-file2.mp4"> video</a>
 
 <b>F. Colonnier</b>, A. Manecy., R. Juston and S. Viollet "Visual Odometry and Low Optic Flow Measurement by Means of a Vibrating Artificial Compound Eye" pages 153-163. <i>Biomimetic and Biohybrid Systems: 4th International Conference, Living Machines 2015, Springer International Publishing</i>, Barcelona, Spain, July 2015
