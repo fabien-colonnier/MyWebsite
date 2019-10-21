@@ -6,16 +6,12 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/Bodywork/Bodywork/rss.xml</loc>
-  <lastmod>2019-10-19T10:09:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/Bodywork/rss.xml</loc>
-  <lastmod>2019-10-21T03:29:00Z</lastmod>
+  <lastmod>2019-10-21T06:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/rss.xml</loc>
-  <lastmod>2019-10-21T03:29:00Z</lastmod>
+  <lastmod>2019-10-21T06:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/rss.xml</loc>
@@ -23,6 +19,6 @@
  </sitemap>
  <sitemap>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/sitemap.xml</loc>
-  <lastmod>2019-10-21T03:29:00Z</lastmod>
+  <lastmod>2019-10-21T06:03:00Z</lastmod>
  </sitemap>
 </sitemapindex>
