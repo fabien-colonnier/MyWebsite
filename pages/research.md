@@ -9,7 +9,7 @@
 
 
 
-My research interest is mainly focused on visual navigation for robotic application. I used bio-inspired method to solve simple tasks such as stabilization, pursuit and obstacle avoidance.
+My research interest is mainly focused on visual navigation for robotic application. I used bio-inspired method to solve robotic tasks such as stabilization, pursuit and obstacle avoidance.
 
 <h2> Event-based visual sensor </h2>
 
@@ -34,7 +34,7 @@ A nice description of how the sensor work can be found <a href="https://youtu.be
 
 <h2> Insect inspired vision and application </h2>
 
-The following research was made during my PhD in the Biorobotics team in Marseille. My thesis can be downloaded <a href="/files/These_COLONNIER_Fabien.pdf"> Download full English CV</a> .
+The following research was made during my PhD in the Biorobotics team in Marseille. My thesis can be downloaded here: <a href="/files/These_COLONNIER_Fabien.pdf"> Link to thesis</a> .
 
 <ul>
 <li>
