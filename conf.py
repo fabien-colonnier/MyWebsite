@@ -573,7 +573,7 @@ FRONT_INDEX_HEADER = {
 
 # RSS filename base (without extension); used for indexes and galleries.
 # (translatable)
-# RSS_FILENAME_BASE = "rss"
+RSS_FILENAME_BASE = "rss"
 
 # Final location for the blog main RSS feed is:
 # output / TRANSLATION[lang] / RSS_PATH / RSS_FILENAME_BASE RSS_EXTENSION
@@ -737,7 +737,7 @@ USE_FILENAME_AS_TITLE = True
 EXTRA_IMAGE_EXTENSIONS = []
 
 # If set to False, it will sort by filename instead. Defaults to True
-GALLERY_SORT_BY_DATE = False
+GALLERY_SORT_BY_DATE = True
 
 # If set to True, EXIF data will be copied when an image is thumbnailed or
 # resized. (See also EXIF_WHITELIST)
