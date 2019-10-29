@@ -1,0 +1,3 @@
+.. title: Swing arm creation with powertrain assembling
+
+The swing arm was designed to receive the electric motor, the CVT and the gear reducer. From a vehicle dynamics point of view, it is not the right choice given the amount of unsuspended mass. But this choice was guided by the limited amount of space. It had also the advantage of reducing the complexity for the chain setup and maintenance.
