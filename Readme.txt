@@ -22,6 +22,7 @@ Change should be done in pages and file folder
 
 # create new page
 $ nikola new_page -f markdown
+(the title of the file will be written later)
 
 $ nikola build
 $ nikola serve -b

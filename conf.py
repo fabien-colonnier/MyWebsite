@@ -139,7 +139,7 @@ NAVIGATION_LINKS = {
 	("/research/index.html", "Research"),
 	("/cv/index.html", "CV"),
 	("/publications/index.html", "Publications"),
-	("/projects/index.html", "Other Projects"),
+	((("/projects/index.html", "Overview"), ("/emma/index.html", "Emma")), "Other Projects"),
         #("/archive.html", "Archive"),
         #("/categories/", "Tags"),
     ),
