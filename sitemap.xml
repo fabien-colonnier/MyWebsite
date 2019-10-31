@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/</loc>
-  <lastmod>2019-10-25T13:23:00Z</lastmod>
+  <lastmod>2019-10-31T08:01:00Z</lastmod>
  </url>
  <url>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/AutoIndex_NOTUSED/</loc>
@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/archive.html</loc>
-  <lastmod>2019-10-29T02:32:00Z</lastmod>
+  <lastmod>2019-10-31T13:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/categories/</loc>
@@ -24,6 +24,10 @@
  <url>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/cv/</loc>
   <lastmod>2019-06-05T11:52:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://fabien-colonnier.github.io/MyOwnWebsite/emma/</loc>
+  <lastmod>2019-10-31T08:01:00Z</lastmod>
  </url>
  <url>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/</loc>
@@ -35,7 +39,7 @@
  </url>
  <url>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/Foam_Sections/</loc>
-  <lastmod>2019-10-26T07:53:00Z</lastmod>
+  <lastmod>2019-10-31T13:25:00Z</lastmod>
  </url>
  <url>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/Foam_sanding/</loc>
@@ -43,15 +47,15 @@
  </url>
  <url>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/Integration_GMP/</loc>
-  <lastmod>2019-10-25T14:13:00Z</lastmod>
+  <lastmod>2019-10-31T13:25:00Z</lastmod>
  </url>
  <url>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/Master_glassfiber/</loc>
-  <lastmod>2019-10-25T14:13:00Z</lastmod>
+  <lastmod>2019-10-31T13:25:00Z</lastmod>
  </url>
  <url>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/Status_mondial2010/</loc>
-  <lastmod>2019-10-25T14:13:00Z</lastmod>
+  <lastmod>2019-10-29T02:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/listings/</loc>
