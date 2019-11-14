@@ -7,31 +7,35 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/Bodywork_Wood/rss.xml</loc>
-  <lastmod>2019-10-31T13:40:00Z</lastmod>
+  <lastmod>2019-11-14T09:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/Foam_Sections/rss.xml</loc>
-  <lastmod>2019-10-31T13:40:00Z</lastmod>
+  <lastmod>2019-11-14T09:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/Foam_sanding/rss.xml</loc>
-  <lastmod>2019-10-31T13:40:00Z</lastmod>
+  <lastmod>2019-11-14T09:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/Integration_GMP/rss.xml</loc>
-  <lastmod>2019-10-31T13:40:00Z</lastmod>
+  <lastmod>2019-11-14T09:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/Master_glassfiber/rss.xml</loc>
-  <lastmod>2019-10-31T13:40:00Z</lastmod>
+  <lastmod>2019-11-14T09:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/Status_mondial2010/rss.xml</loc>
-  <lastmod>2019-10-31T13:40:00Z</lastmod>
+  <lastmod>2019-11-14T09:35:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/Status_mondial2012/rss.xml</loc>
+  <lastmod>2019-11-14T09:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/rss.xml</loc>
-  <lastmod>2019-10-31T13:40:00Z</lastmod>
+  <lastmod>2019-11-14T09:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/rss.xml</loc>
@@ -39,6 +43,6 @@
  </sitemap>
  <sitemap>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/sitemap.xml</loc>
-  <lastmod>2019-10-31T13:40:00Z</lastmod>
+  <lastmod>2019-11-14T09:35:00Z</lastmod>
  </sitemap>
 </sitemapindex>
