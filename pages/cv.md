@@ -41,26 +41,29 @@ aside {
 
 <h1> Experience </h1>
 
-<div class="group">
-<section>
+<div style="width: 100%; display: table;">
+    <div style="display: table-row; position: right;">
+        <div style="width: 75%; display: table-cell;"> 
 	<b>Research scientist</b> <br /> 
-	<a href="https://nusneuromorphic.github.io/"> Neuromorphic group</a> at the <a href="http://www.temasek-labs.nus.edu.sg/"> Temasek Lab. @ NUS</a>, Singapore, SGP
+	<a href="https://nusneuromorphic.github.io/"> Neuromorphic group</a> at the <a href="http://www.temasek-labs.nus.edu.sg/"> Temasek Lab. @ NUS</a>
 	<ul>
 	  <li>Started to work on Spiking Neural Network for robotic Navigation</li>
 	  <li>Worked on algorithms for Visual Odometry and obstacle avoidance using event-based sensors</li>
 	  <li>Involved in aerial and ground robot designs</li>
 	</ul>
-</section>
-
-<aside>
+	</div>	
+    
+    	<div style="display: table-cell; margin: 1.5% 1.5%; vertical-align: top;" >
 	<p style="text-align:right;">
 	Singapore, SGP <br />
 	2017-today</p>
-</aside>
-</div>
+    	</div>
+    </div>
+<!-- /div -->
 
-<div class="group">
-<section>
+
+    <div style="display: table-row; position: right;">
+        <div style="width: 75%; display: table-cell;"> 
 	<b>PhD student</b> <br /> 
 	Biorobotics team at the <a href="https://ism.univ-amu.fr/en/"> Institute of Movement Sciences</a>
 	<ul>
@@ -68,100 +71,103 @@ aside {
 	  <li>Implemented of a controller for mobile robot positionning</li>
 	  <li>Involved in the <a href="http://www.gipsa-lab.fr/projet/RT-MaG/"> RT-MaG project</a>: a Matlab toolbox to program Real-Time application on Computer-on-Module running a Linux OS</li>
 	</ul>
-</section>
+    	</div>
 
-<aside>
+        <div style="display: table-cell; margin: 1.5% 1.5%; vertical-align: top;" >
 	<p style="text-align:right;">
 	Marseille, FRA <br />
 	2012-2017</p>
-</aside>
-</div>
+        </div>
+    </div>
 
-<div class="group">
-<section>
+    <div style="display: table-row; position: right;">
+        <div style="width: 75%; display: table-cell;"> 
 	<b>Intern</b> <br /> 
 	Bertrandt GmbH in the Powertrain department <a href=""></a>
 	<ul>
 	  <li>Worked on the development of an engine management software for a 2-stroke Diesel engine prototype</li>
 	  <li>Created and validated models for a cooling system with GT-Suite for Ford GmbH</li>
 	</ul>
-</section>
+	</div>
 
-<aside>
+        <div style="display: table-cell; margin: 1.5% 1.5%; vertical-align: top;" >
 	<p style="text-align:right;">
 	Cologne, GER <br />
 	2012</p>
-</aside>
-</div>
+	</div>
+    </div>
 
-<div class="group">
-<section>
+    <div style="display: table-row; position: right;">
+        <div style="width: 75%; display: table-cell;"> 
 	<b>Intern</b> <br /> 
 	Bertrandt SA in the Powertrain department <a href=""></a>
 	<ul>
 	  <li>Analyzed data for a wearing study of piston rings and rod bearings using Thin Layer Activation test method (for Renault SA)</li>
  	  <li>Worked on an engine cooling strategies using Flowmaster in collaboration with a German team</li>
 	</ul>
-</section>
+	</div>
 
-<aside>
+        <div style="display: table-cell; margin: 1.5% 1.5%; vertical-align: top;" >
 	<p style="text-align:right;">
 	Bièvres, FRA <br />
 	2011</p>
-</aside>
+	</div>
+    </div>
 </div>
 
 <h1> Education </h1>
 
-<div class="group">
-<section>
+<div style="width: 100%; display: table;">
+    <div style="display: table-row; position: right;">
+        <div style="width: 75%; display: table-cell;"> 
 	<b>PhD in bio-inspired robotics</b> <br /> 
 	Biorobotics team at the <a href="https://ism.univ-amu.fr/en/"> Institute of Movement Sciences</a>
 	<ul>
 	  <li>Thesis title: "Hyperacute artificial compound eye: robotic applications to Stabilization and Pursuit"</li>
 	</ul>
-</section>
+	</div>
 
-<aside>
+        <div style="display: table-cell; margin: 1.5% 1.5%; vertical-align: top;" >
 	<p style="text-align:right;">
 	Marseille, FRA <br />
 	2017</p>
-</aside>
-</div>
+	</div>
+    </div>
 
-<div class="group">
-<section>
+    <div style="display: table-row; position: right;">
+        <div style="width: 75%; display: table-cell;"> 
 	<b>MSc in automotive engineering with a specialization in Embedded Systems</b> <br /> 
 	<a href="https://www.estaca.fr/en/"> ESTACA</a>, a transport engineering school 
-</section>
+	</div>
 
-<aside>
+        <div style="display: table-cell; margin: 1.5% 1.5%; vertical-align: top;" >
 	<p style="text-align:right;">
 	Laval, FRA <br />
 	2012</p>
-</aside>
-</div>
+	</div>
+    </div>
 
-<div class="group">
-<section>
+    <div style="display: table-row; position: right;">
+        <div style="width: 75%; display: table-cell;"> 
 	<b>French Scientific Baccalaureate</b> <br />
 	Lycée Notre Dame de Bonnes Nouvelles <a href=""></a>
 	<ul>
 	  <li>Option Engineering Sciences and specialized in Physics</li>
 	  <li>Graduated with honours</li>
 	</ul>
-</section>
+	</div>
 
-<aside>
+    <div style="display: table-cell; margin: 1.5% 1.5%; vertical-align: top;" >
 	<p style="text-align:right;">
 	Beaupréau, FRA <br />
 	2017</p>
-</aside>
+	</div>
+    </div>
 </div>
 
+
 <h1> Computer Skills </h1>
-<div class="group">
-<section>
+<div style="margin: 1.5% 1.5%;">
 	<b>Programming languages</b> 
 	<ul>
 	  <li>Expert: C, Matlab, LaTeX, VBA (macro Excel) </li>
@@ -180,26 +186,21 @@ aside {
 	<b>CAD Software:</b> Solidworks, Catia V5 <br />
 	<b>Others:</b> Microsoft Office Suite, Adobe Premier, Inkscape <br />
 </p>
-</section>
 </div>
 
 <h1> Languages </h1>
-<div class="group">
-<section>
+<div style="margin: 1.5% 1.5%;">
 <p> <b>French:</b> Mother tongue <br />
     <b>English:</b> Fluent <br />
     <b>German:</b> Basic <br />
 </p>
-</section>
 </div>
 
 <h1> Interests & Activities </h1>
-<div class="group">
-<section>
+<div style="margin: 1.5% 1.5%;">
 <p> <b>Sport:</b> Running (Semi-marathon and trail running), swimming and rock climbing <br />
     <b>Others:</b> Interested in mechanics (car maintenance, motorbike reconditioning) and DIY <br />
 </p>
-</section>
 </div>
 
 <!-- V1 without date at the right
