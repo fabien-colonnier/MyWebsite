@@ -42,12 +42,28 @@ aside {
 <h1> Experience </h1>
 
 <div style="width: 100%; display: table;">
+	<div style="display: table-row; position: right;">
+        <div style="width: 75%; display: table-cell;"> 
+	<b>Research Scientist</b> <br /> 
+	Institute for Infocomm Research (I2R), an A*STAR entity
+	<ul>
+	  <li>Continue to develop Spiking Neural Network for robotic localization</li>
+	</ul>
+	</div>	
+    
+    	<div style="display: table-cell; margin: 1.5% 1.5%; vertical-align: top;" >
+	<p style="text-align:right;">
+	Singapore, SGP <br />
+	2020-today</p>
+    	</div>
+    </div>
+
     <div style="display: table-row; position: right;">
         <div style="width: 75%; display: table-cell;"> 
-	<b>Research scientist</b> <br /> 
+	<b>Research Scientist</b> <br /> 
 	<a href="https://nusneuromorphic.github.io/"> Neuromorphic group</a> at the <a href="http://www.temasek-labs.nus.edu.sg/"> Temasek Lab. @ NUS</a>
 	<ul>
-	  <li>Started to work on Spiking Neural Network for robotic Navigation</li>
+	  <li>Started to work on Spiking Neural Network for robotic localization</li>
 	  <li>Worked on algorithms for Visual Odometry and obstacle avoidance using event-based sensors</li>
 	  <li>Involved in aerial and ground robot designs</li>
 	</ul>
@@ -56,7 +72,7 @@ aside {
     	<div style="display: table-cell; margin: 1.5% 1.5%; vertical-align: top;" >
 	<p style="text-align:right;">
 	Singapore, SGP <br />
-	2017-today</p>
+	2017-2019</p>
     	</div>
     </div>
 <!-- /div -->
