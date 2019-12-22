@@ -68,6 +68,7 @@ navbar-dark bg-dark
         <!--Body content-->
         
         
+        
     
 <nav class="breadcrumbs"><ul class="breadcrumb">
 <li class="breadcrumb-item"><a href="../">galleries</a></li>
@@ -110,19 +111,17 @@ Tape was put on the master to preview the car lines.</p>
         <footer id="footer">
             Contents © 2019         <a author>     
             
+            
         </a></footer>
 </div>
 </div>
 
 
-        <script src="../../assets/js/all-nocdn.js"></script><!-- fancy dates --><script>
-    moment.locale("en");
-    fancydates(0, "YYYY-MM-DD HH:mm");
-    </script><!-- end fancy dates --><script src="../../assets/js/justified-layout.min.js"></script><script src="../../assets/js/gallery.min.js"></script><script>
+        <script src="../../assets/js/all-nocdn.js"></script><script src="../../assets/js/justified-layout.min.js"></script><script src="../../assets/js/gallery.min.js"></script><script>
 var jsonContent = [{"height": 135, "size": {"h": 135, "w": 180}, "title": "Side of the car", "url": "DSCF0436.JPG", "url_thumb": "DSCF0436.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Front, with a tentative design of the headlight", "url": "DSCF0438.JPG", "url_thumb": "DSCF0438.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Three quarter back", "url": "DSCF0755.JPG", "url_thumb": "DSCF0755.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Side (2)", "url": "DSCF0756.JPG", "url_thumb": "DSCF0756.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Side (3)", "url": "DSCF0754.JPG", "url_thumb": "DSCF0754.thumbnail.JPG", "width": 180}];
 var thumbnailSize = 180;
 renderGallery(jsonContent, thumbnailSize);
-window.addEventListener('resize', renderGallery);
+window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnailSize)});
 </script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',

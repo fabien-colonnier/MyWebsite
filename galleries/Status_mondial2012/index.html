@@ -68,6 +68,7 @@ navbar-dark bg-dark
         <!--Body content-->
         
         
+        
     
 <nav class="breadcrumbs"><ul class="breadcrumb">
 <li class="breadcrumb-item"><a href="../">galleries</a></li>
@@ -117,19 +118,17 @@ navbar-dark bg-dark
         <footer id="footer">
             Contents © 2019         <a author>     
             
+            
         </a></footer>
 </div>
 </div>
 
 
-        <script src="../../assets/js/all-nocdn.js"></script><!-- fancy dates --><script>
-    moment.locale("en");
-    fancydates(0, "YYYY-MM-DD HH:mm");
-    </script><!-- end fancy dates --><script src="../../assets/js/justified-layout.min.js"></script><script src="../../assets/js/gallery.min.js"></script><script>
+        <script src="../../assets/js/all-nocdn.js"></script><script src="../../assets/js/justified-layout.min.js"></script><script src="../../assets/js/gallery.min.js"></script><script>
 var jsonContent = [{"height": 135, "size": {"h": 135, "w": 180}, "title": "Three quarter front left", "url": "P1000910.JPG", "url_thumb": "P1000910.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Left side with the door", "url": "P1000911.JPG", "url_thumb": "P1000911.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Front", "url": "P1010022.JPG", "url_thumb": "P1010022.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Three quarter front right", "url": "P1000912.JPG", "url_thumb": "P1000912.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Three quarter back right", "url": "P1000913.JPG", "url_thumb": "P1000913.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Back", "url": "P1010024.JPG", "url_thumb": "P1010024.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Three quarter front left (2)", "url": "P1010023.JPG", "url_thumb": "P1010023.thumbnail.JPG", "width": 180}];
 var thumbnailSize = 180;
 renderGallery(jsonContent, thumbnailSize);
-window.addEventListener('resize', renderGallery);
+window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnailSize)});
 </script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',

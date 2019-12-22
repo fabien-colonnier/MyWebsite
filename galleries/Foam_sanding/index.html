@@ -68,6 +68,7 @@ navbar-dark bg-dark
         <!--Body content-->
         
         
+        
     
 <nav class="breadcrumbs"><ul class="breadcrumb">
 <li class="breadcrumb-item"><a href="../">galleries</a></li>
@@ -134,19 +135,17 @@ The paint was used to see how much sanding need to be done.</p>
         <footer id="footer">
             Contents © 2019         <a author>     
             
+            
         </a></footer>
 </div>
 </div>
 
 
-        <script src="../../assets/js/all-nocdn.js"></script><!-- fancy dates --><script>
-    moment.locale("en");
-    fancydates(0, "YYYY-MM-DD HH:mm");
-    </script><!-- end fancy dates --><script src="../../assets/js/justified-layout.min.js"></script><script src="../../assets/js/gallery.min.js"></script><script>
+        <script src="../../assets/js/all-nocdn.js"></script><script src="../../assets/js/justified-layout.min.js"></script><script src="../../assets/js/gallery.min.js"></script><script>
 var jsonContent = [{"height": 180, "size": {"h": 180, "w": 135}, "title": "Side view, beginning sanding. Blue paint is here to help to see the part to sand", "url": "DSCF0320.JPG", "url_thumb": "DSCF0320.thumbnail.JPG", "width": 135}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Left side view, half sanding", "url": "DSCF0326.JPG", "url_thumb": "DSCF0326.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Back view, half sanding", "url": "DSCF0324.JPG", "url_thumb": "DSCF0324.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Right side view, half sanding", "url": "DSCF0330.JPG", "url_thumb": "DSCF0330.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Front view in the middle of the sanding process", "url": "DSCF0333.JPG", "url_thumb": "DSCF0333.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Rear view, end of the sanding", "url": "DSCF0339.JPG", "url_thumb": "DSCF0339.thumbnail.JPG", "width": 180}, {"height": 180, "size": {"h": 180, "w": 135}, "title": "Second rear view close to the end of the sanding", "url": "DSCF0340.JPG", "url_thumb": "DSCF0340.thumbnail.JPG", "width": 135}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Front view with the beginning of the wheel arch sanding", "url": "DSCF0342.JPG", "url_thumb": "DSCF0342.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Front view with the wheel arch checked", "url": "DSCF0352.JPG", "url_thumb": "DSCF0352.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Side view compared to initial sketch", "url": "DSCF0349.JPG", "url_thumb": "DSCF0349.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Side view at the end of sanding", "url": "DSCF0350.JPG", "url_thumb": "DSCF0350.thumbnail.JPG", "width": 180}];
 var thumbnailSize = 180;
 renderGallery(jsonContent, thumbnailSize);
-window.addEventListener('resize', renderGallery);
+window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnailSize)});
 </script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',

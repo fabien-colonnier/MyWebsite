@@ -68,6 +68,7 @@ navbar-dark bg-dark
         <!--Body content-->
         
         
+        
     
 <nav class="breadcrumbs"><ul class="breadcrumb">
 <li class="breadcrumb-item"><a href="../">galleries</a></li>
@@ -154,19 +155,17 @@ Using an existing windshield as a mold, a fiberglass windshield was made in lieu
         <footer id="footer">
             Contents © 2019         <a author>     
             
+            
         </a></footer>
 </div>
 </div>
 
 
-        <script src="../../assets/js/all-nocdn.js"></script><!-- fancy dates --><script>
-    moment.locale("en");
-    fancydates(0, "YYYY-MM-DD HH:mm");
-    </script><!-- end fancy dates --><script src="../../assets/js/justified-layout.min.js"></script><script src="../../assets/js/gallery.min.js"></script><script>
+        <script src="../../assets/js/all-nocdn.js"></script><script src="../../assets/js/justified-layout.min.js"></script><script src="../../assets/js/gallery.min.js"></script><script>
 var jsonContent = [{"height": 135, "size": {"h": 135, "w": 180}, "title": "Putty application to mask the sections' junctions (Rear)", "url": "DSCF0358.JPG", "url_thumb": "DSCF0358.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Putty application to mask the sections' junctions (Front)", "url": "DSCF0359.JPG", "url_thumb": "DSCF0359.thumbnail.JPG", "width": 180}, {"height": 180, "size": {"h": 180, "w": 135}, "title": "Fiber glass cutted and placed on the hood, roof and hatchback (back)", "url": "DSCF0375.JPG", "url_thumb": "DSCF0375.thumbnail.JPG", "width": 135}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Fiber glass cutted and placed on the hood, roof and hatchback (side)", "url": "DSCF0370.JPG", "url_thumb": "DSCF0370.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Fiber glass cutted and placed on the hood, roof and hatchback (front)", "url": "DSCF0372.JPG", "url_thumb": "DSCF0372.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Putting resin on the roof", "url": "DSCF0379.JPG", "url_thumb": "DSCF0379.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Application of the resin with a brush", "url": "DSCF0381.JPG", "url_thumb": "DSCF0381.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Debubblizer in action", "url": "DSCF0380.JPG", "url_thumb": "DSCF0380.thumbnail.JPG", "width": 180}, {"height": 180, "size": {"h": 180, "w": 135}, "title": "Hatchback in process", "url": "DSCF0382.JPG", "url_thumb": "DSCF0382.thumbnail.JPG", "width": 135}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Debubblizer used on the hatchback", "url": "DSCF0383.JPG", "url_thumb": "DSCF0383.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Roof finished (1)", "url": "DSCF0384.JPG", "url_thumb": "DSCF0384.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Roof finished (2)", "url": "DSCF0385.JPG", "url_thumb": "DSCF0385.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Application of the resin on the sides", "url": "DSCF0386.JPG", "url_thumb": "DSCF0386.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Application of the resin on bottom parts", "url": "DSCF0387.JPG", "url_thumb": "DSCF0387.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "The resin has been applied, need to wait to dry...", "url": "DSCF0388.JPG", "url_thumb": "DSCF0388.thumbnail.JPG", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "DSCF0360.JPG", "url": "DSCF0360.JPG", "url_thumb": "DSCF0360.thumbnail.JPG", "width": 180}];
 var thumbnailSize = 180;
 renderGallery(jsonContent, thumbnailSize);
-window.addEventListener('resize', renderGallery);
+window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnailSize)});
 </script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
