@@ -9,11 +9,11 @@
 
 
 
-My research interest is mainly focused on visual navigation for robotic application. I used bio-inspired method to solve robotic tasks such as stabilization, pursuit and obstacle avoidance.
+My research interest is mainly focused on visual navigation for robotic application. I use bio-inspired method to solve robotic tasks such as stabilization, pursuit and obstacle avoidance.
 
 <h2> Event-based visual sensor </h2>
 
-A nice description of how the sensor work can be found <a href="https://youtu.be/LauQ6LWTkxM"> here </a> <br />
+A nice description of how the sensor works can be found <a href="https://youtu.be/LauQ6LWTkxM"> here </a> <br />
 
 <ul>
 <li>
