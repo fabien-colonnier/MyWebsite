@@ -12,7 +12,7 @@
 
 <p>
 PhD in bio-inspired robotics, engineer in embedded systems<br>
-Currently research scientist at NUS (National University of Singapore)<br>
+Currently research scientist at Institute for Infocomm Research (I2R), an A*STAR entity.<br>
 <br>
 </p>
 
