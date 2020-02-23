@@ -19,15 +19,14 @@ A nice description of how the sensor works can be found <a href="https://youtu.b
 <li>
 <p>The Davis240C sensor was used to compute Optic Flow and perform obstacle avoidance with a quadrotor. <br /> </p>
 
-<video width="560" height="315" controls preload="none" frameborder="0">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nn2wyDYJI8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--video width="560" height="315" controls preload="none" frameborder="0">
    <source src="https://linklings.s3.amazonaws.com/organizations/acra/acra2018/submissions/stype101/UGjfY-pap104s1-file2.mp4" type="video/mp4">
    Your browser does not support the video tag.
-</video>
+</video-->
 
 </li>
 </ul>
-<!--
-<iframe width="560" height="315" src="https://linklings.s3.amazonaws.com/organizations/acra/acra2018/submissions/stype101/UGjfY-pap104s1-file2.mp4" preload="none" type="video/mp4" allowfullscreen></iframe>
 
 <!--<a href="https://linklings.s3.amazonaws.com/organizations/acra/acra2018/submissions/stype101/UGjfY-pap104s1-file2.mp4"> video</a> -->
 
