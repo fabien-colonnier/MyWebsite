@@ -18,6 +18,10 @@
   <lastmod>2020-01-01T03:56:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/Frame/rss.xml</loc>
+  <lastmod>2020-03-01T09:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/galleries/Integration_GMP/rss.xml</loc>
   <lastmod>2020-01-01T03:56:00Z</lastmod>
  </sitemap>
@@ -43,6 +47,6 @@
  </sitemap>
  <sitemap>
   <loc>https://fabien-colonnier.github.io/MyOwnWebsite/sitemap.xml</loc>
-  <lastmod>2020-01-01T03:56:00Z</lastmod>
+  <lastmod>2020-03-01T09:08:00Z</lastmod>
  </sitemap>
 </sitemapindex>
