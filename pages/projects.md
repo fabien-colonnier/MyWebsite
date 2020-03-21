@@ -10,7 +10,7 @@
 -->
 
 
-This page describes some of my personal projects I could have done. For now, only my main realization is described. 
+This page describes some of my personal projects I have done. For now, only one project is described. 
 
 <h1> <a href="/emma/index.html"> Emma: an urban electric vehicle</a> </h1>
 
