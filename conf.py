@@ -20,7 +20,7 @@ BLOG_AUTHOR = "Fabien Colonnier"  # (translatable)
 BLOG_TITLE = "Fabien Colonnier"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://fabien-colonnier.github.io/MyWebsite/"
+SITE_URL = "https://fabien-colonnier.com/"  # "https://fabien-colonnier.github.io/MyWebsite/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 BASE_URL = "https://fabien-colonnier.com/"
