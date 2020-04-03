@@ -24,7 +24,7 @@ Currently research scientist at Institute for Infocomm Research (I2R), an A*STAR
         <div style="display: table-cell; margin: 1.5% 1.5%; vertical-align: top;" > 
 	<p style="text-align: justify; text-justify: inter-word;">
 		<b>Short bio:</b>
-		I received a MSc in automotive engineering with a speciality on embedded systems from the ESTACA engineering school in 2012 and a PhD degree in bio-robotics from the Aix-Marseille University in 2017, both in France. My research is focused on visual perception for robotic applications. I am looking at bio-inspired solutions to solve the localization and navigation problematics using event-based sensors, neuromorphic computation and artificial compound eyes.
+		I received a MSc in automotive engineering with a speciality in embedded systems from the ESTACA engineering school in 2012 and a PhD degree in bio-robotics from the Aix-Marseille University in 2017, both in France. My research is focused on visual perception for robotic applications. I am looking at bio-inspired solutions to achieve efficient localization and navigation using event-based sensors, neuromorphic computation and artificial compound eyes.
 		</p>
 	</div>
     </div>

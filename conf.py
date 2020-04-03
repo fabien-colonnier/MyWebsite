@@ -23,7 +23,7 @@ BLOG_TITLE = "Fabien Colonnier"  # (translatable)
 SITE_URL = "https://fabien-colonnier.github.io/MyWebsite/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://temp.com/"
+BASE_URL = "https://fabien-colonnier.com/"
 BLOG_EMAIL = "n.tesla@example.com"
 BLOG_DESCRIPTION = "Personal website of Fabien Colonnier"  # (translatable)
 
@@ -1281,6 +1281,7 @@ SHOW_SOURCELINK = False
 
 # Plugins you don't want to use. Be careful :-)
 # DISABLED_PLUGINS = ["render_galleries"]
+DISABLED_PLUGINS = ["robots"]
 
 # Special settings to disable only parts of the indexes plugin.
 # Use with care.
