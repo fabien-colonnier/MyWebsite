@@ -1,4 +1,0 @@
-Sitemap: https://fabien-colonnier.github.io/MyWebsite/sitemapindex.xml
-
-User-Agent: *
-Host: fabien-colonnier.github.io
