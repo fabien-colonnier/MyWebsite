@@ -13,7 +13,7 @@ My research interest is mainly focused on visual navigation for robotic applicat
 
 <h2> Event-based visual sensor </h2>
 
-A nice description of how the sensor works can be found <a href="https://youtu.be/LauQ6LWTkxM"> here </a> <br />
+A nice description of how the sensor works can be found <a href="https://youtu.be/LauQ6LWTkxM" target="_blank"> here </a> <br />
 
 <ul>
 <li>
