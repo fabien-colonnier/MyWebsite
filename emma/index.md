@@ -64,6 +64,85 @@ The objective was then for us to build this vehicle with the aim to be as close 
 
 <h1> Engineering conception </h1>
 
+<p style="text-align: justify; text-justify: inter-word;">
+For this project, we tried to make it as close to a product as we could, so we did a survey of all the potential competitors. In 2009, the market for such urban zero-emission vehicle was small, therefore all the other examples were very odd and mostly invisible in the automotive landscape at the time. I won't go into details because most of the examples are not sold anymore or never been made available to the public. Now, mainly the Aixam e-city is on the market from that time (<a href="https://www.aixam.com/en/e-aixam-range" target="_blank">link</a>). Another interesting vehicle, which is competing on the same space, the MDI AIRpod is using the compressed air to power the vehicle. According to the company website, it may still appear one day (<a href="https://www.mdi.lu/airpod2-en" target="_blank">link</a>). 
+
+
+<p style="text-align: justify; text-justify: inter-word;">
+We also drew a list of functional specifications to have a design workflow close to a real carmaker. In order to have a product suitable for an hypothetical sale, we also followed the French norm for the license-free car. 
+</p>
+
+<h3> Vehicle architecture </h3>
+
+<p style="text-align: justify; text-justify: inter-word;">
+<b>Battery:</b>
+For the battery, we chose the NiMH technology from an early stage because it offered a better cost effectiveness compared to the Lithium technology. The location of the battery should be the lowest as possible and ideally close to the front to keep the center of gravity low and closer to the 2-wheel axle in order to avoid rollover. In a first approximation, the choice was to put them on the floor (option A). But a backup solution was to put them on the side of the driver's legs, if the vehicle would reveal to be too unstable (option B). This choice was not the preferred one as it would make it more difficult to enter the vehicle.
+
+<table style="width:100%; text-align: center;">
+	<tr>
+	   <th style="text-align:center;"> <img src="/files/Emma_prj/Engineering/battery_pos_optA.png" width="400" alt="Battery position option A"/> </th>
+	   <th style="text-align:center;"> <img src="/files/Emma_prj/Engineering/battery_pos_optB.png" width="400" alt="Battery position option B"/> </th>
+	</tr>
+	<tr>
+	   <th style="text-align:center;"> Option A </th>
+	   <th style="text-align:center;"> Option B </th>
+	</tr>
+</table>
+<br/>
+
+We are grateful to Saft for providing the battery units.
+<br/>
+
+
+</p>
+
+
+<p style="text-align: justify; text-justify: inter-word;">
+<b>Ergonomics:</b>
+As the objective was to have a low-cost vehicle, we wanted to have a very simple seat. Therefore, the choice to have a fixed angle between the seat and the backrest was made. Only one degree of freedom allowed to adjust the driving position was te seat slider. Thus, the angle of the seat with the floor as well as the wheel position should be carefully chosen to make the driving position confortable for most. An ergonomic study showed that it is possbile for the population from the 10% female to 85% male size to fit confortably. A correct positionning of the pedals was also designed to fit the most.
+<table style="width:100%; text-align: center;">
+	<tr>
+	   <th style="text-align:center;"> <img src="/files/Emma_prj/Engineering/Ergonomic_50man.png" width="300" alt="50% man"/> </th>
+	   <th style="text-align:center;"> <img src="/files/Emma_prj/Engineering/Ergonomic_85man.png" width="300" alt="85% man"/> </th>
+	   <th style="text-align:center;"> <img src="/files/Emma_prj/Engineering/Ergonomic_10woman.png" width="300" alt="10% woman"/> </th>
+	</tr>
+	<tr>
+	   <th style="text-align:center;"> 50% man </th>
+	   <th style="text-align:center;"> 85% man </th>
+	   <th style="text-align:center;"> 10% woman </th>
+	</tr>
+</table>
+</p>
+
+<p style="text-align: justify; text-justify: inter-word;">
+<b>Powertrain design:</b>
+As specification, the vehicle should have been able to climb a 33% slope, reach a top speed of 45km/h under 10s. As the cost was a great limitation in the design. We chose to get an off-the-shelf motor. This choice made it impossible to meet the criterias with a static gear ratio. Therefore, we made the choice to integrate a CVT in the powetrain. This transmission allowed having enough torque at low speed to climb steap slope and have a decent acceleration, while being able to reach the top speed, making full use of the power available at each time. As a drawback, it required another gear reduction after the CVT making the whole powertrain both heavier and larger. 
+</p>
+
+<p style="text-align: justify; text-justify: inter-word;">
+<b>Charger:</b> 
+In order to contain the weight of the vehicle, and the because the vehicle was designed as a commuter, the range was quite low with around 50km. To allow peace of mind to the driver and knowledge that recharging would be possible from most places, it was important to have a charger embedded in the vehicle. It was also a requirement for people using the vehicle to go to work at more than 25km. We were able to find a position under the hood, where a hatch would be easy to integrate.
+</p>
+
+<div id="gallery_container"></div>
+<div class="rows">
+    <ul class="thumbnails">	
+	<a href="/files/Emma_prj/Engineering/Powertrain_A.png" class="thumbnail image-reference" >
+            <img src="/files/Emma_prj/Engineering/Powertrain_A.png" height="135px" alt="3D assembly of the swing arm with the powertrain (1)" style="margin: 0px 0px"></a>
+	<a href="/files/Emma_prj/Engineering/Powertrain_B.png" class="thumbnail image-reference" >
+            <img src="/files/Emma_prj/Engineering/Powertrain_B.png" height="135px" alt="3D assembly of the swing arm with the powertrain (2)" style="margin: 0px 0px"></a>
+	<a href="/files/Emma_prj/Engineering/Front.png" class="thumbnail image-reference" >
+            <img src="/files/Emma_prj/Engineering/Front.png" height="135px" alt="Position of the charger" style="margin: 0px 0px"></a>
+	<a href="/files/Emma_prj/Engineering/34_all.png" class="thumbnail image-reference" >
+            <img src="/files/Emma_prj/Engineering/34_all.png" height="135px" alt="Full car assembly without the body" style="margin: 0px 0px"></a>
+	<a href="/files/Emma_prj/Engineering/side_all.png" class="thumbnail image-reference" >
+            <img src="/files/Emma_prj/Engineering/side_all.png" height="135px" alt="Side view with the body" style="margin: 0px 0px"></a>
+	<a href="/files/Emma_prj/Engineering/Picture1.png" class="thumbnail image-reference" >
+            <img src="/files/Emma_prj/Engineering/Picture1.png" height="135px" alt="3D rendering" style="margin: 0px 0px"></a>
+	<a href="/files/Emma_prj/Engineering/Picture2.png" class="thumbnail image-reference" >
+            <img src="/files/Emma_prj/Engineering/Picture2.png" height="135px" alt="Potential car sharing plateform" style="margin: 0px 0px"></a>
+</ul>
+</div>
 
 <h1> Frame welding </h1>
 
@@ -302,26 +381,32 @@ As the bodywork was completed, the final external look of the car was unveiled a
 
 <h3> People involved </h3>
 
-<dl>
-  <dt><b>ITD team members:</b></dt>
-	<dd>- Valentin Magnier</dd>
-	<dd>- Alexandre Barat</dd>
-	<dd>- Jean-François Navillod</dd>
-	<dd>- Raphaël  Da Silva</dd>
-	<dd>- Quentin Montaigne</dd>
-	<dd>- Thomas Halgrain</dd>
-	<dd>- Guillaume Blanchard</dd>
-	<dd>- Kévin Soccol</dd>
-	<dd>- Antoine Simon</dd>
-	<dd>- Hervé Denouault</dd>
-	<dd>- ...</dd>
-   <dt><b>Gruau's team for their help in the bodywork:</b></dt>
-	<dd>- Alain Halbert</dd>	
-	<dd>- Cyril Chauvin</dd>
-	<dd>- Patrick Jacob</dd>
-	<dd>- ...</dd>
-</dl> 
-
+<table style="width:100%; text-align: center;">
+	<tr>
+	   <th style="text-align:top-left; vertical-align: top;"> ITD team members: </th>
+	   <th style="text-align:top-left; vertical-align: top;"> <b>Gruau's team for their help in the bodywork:</b> </th>
+	<tr>
+	   <th style="text-align:left; vertical-align: top; font-weight: normal;"> 
+  		<ul> <li>Valentin Magnier</li>
+  		     <li>Alexandre Barat</li>
+		     <li>Jean-François Navillod</li>
+		     <li>Raphaël  Da Silva</li>
+		     <li>Quentin Montaigne</li>
+		     <li>Thomas Halgrain</li>
+		     <li>Guillaume Blanchard</li>
+		     <li>Kévin Soccol</li>
+		     <li>Antoine Simon</li>
+		     <li>Hervé Denouault</li>
+		     <li>...</li>
+		</ul> </th>
+	   <th style="text-align:left; vertical-align: top; font-weight: normal;"> 
+  		<ul> <li>Alain Halbert</li>
+  		     <li>Cyril Chauvin</li>
+		     <li>Patrick Jacob</li>
+		     <li>...</li>
+		</ul> </th>
+	</tr>
+</table>
 
 
 
