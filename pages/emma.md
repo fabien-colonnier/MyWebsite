@@ -44,11 +44,11 @@
 <h1> Concept genesis </h1>
 
 <p style="text-align: justify; text-justify: inter-word;">
-The project was initiated in 2008 by the student association <i>ITD</i>, which had for objectives to explore new concept for the future of mobility. I have been a member of this association from 2008 to 2012, where I have been successively, secretary, treasurer and president. 
-Everything started with a design contest in the engineering school ESTACA where to objective was to create the car of 2020. The winning project would have its vehicle built as a concept car.
+The project was initiated in 2008 by the student association <i>ITD</i>, which had the objective of exploring new concepts for the future of mobility. I was a member of this association from 2008 to 2012, and have been successively, secretary, treasurer and president. 
+Everything started with a design contest in the engineering school, ESTACA, where the objective was to create the car of 2020. The winning project would have its vehicle built as a concept car.
 </p>
 
-The winner was Nicolas Meunier with its car named Emma:
+The winner was Nicolas Meunier with his car named Emma:
 
 <div class="imgbox">
 	<img class="center-fit-small" src="/files/Emma_prj/Emma_drawing.png" alt="Emma sketches"/>
@@ -56,27 +56,27 @@ The winner was Nicolas Meunier with its car named Emma:
 <br/>
 
 <p style="text-align: justify; text-justify: inter-word;">
-His concept was inspired by the Peel P50, the smallest car in the world according to Top Gear (<a href="https://youtu.be/dJfSS0ZXYdo" target="_blank"> youtube link</a>). It was designed to be an electric urban car. It won the contest as it was innovative idea and was a great challenge from an engineering point of view. 
-As a reminder, the Renault Twizy was not out and its conception had not even started as well.
+His concept was inspired by the Peel P50, the smallest car in the world according to Top Gear (<a href="https://youtu.be/dJfSS0ZXYdo" target="_blank">youtube link</a>). It was designed to be an electric urban car. It won the contest as it was an innovative idea and a great challenge from an engineering point of view. 
+As a reminder, the Renault Twizy was not out and its conception had not even started yet.
 
-The objective was then for us to build this vehicle with the aim to be as close as possible as what the real vehicle could be. Sure some limitations due to the limited ressources at our disposal were obvious. But we intended to build a functional vehicle, the closest as possible to a commercialized one.
+The objective was for us to build this vehicle with the aim of being as close as possible to a commercial vehicle. Obviously there were some constraints due to the limited resources at our disposal, but our intention was still to build a functional vehicle.
 </p>
 
 <h1> Engineering conception </h1>
 
 <p style="text-align: justify; text-justify: inter-word;">
-For this project, we tried to make it as close to a product as we could, so we did a survey of all the potential competitors. In 2009, the market for such urban zero-emission vehicle was small, therefore all the other examples were very odd and mostly invisible in the automotive landscape at the time. I won't go into details because most of the examples are not sold anymore or never been made available to the public. Now, mainly the Aixam e-city is on the market from that time (<a href="https://www.aixam.com/en/e-aixam-range" target="_blank">link</a>). Another interesting vehicle, which is competing on the same space, the MDI AIRpod is using the compressed air to power the vehicle. According to the company website, it may still appear one day (<a href="https://www.mdi.lu/airpod2-en" target="_blank">link</a>). 
+Since we were trying to make a commercial quality vehicle, we did a survey of all the potential competitors. In 2009, the market for such urban zero-emission vehicles was small, therefore all the other examples were very odd and mostly invisible in the automotive landscape at the time. I won't go into detail because most of the examples are not sold anymore or were never made available to the public. Currently, the Aixam e-city is the most easily available vehicle from that time (<a href="https://www.aixam.com/en/e-aixam-range" target="_blank">link</a>). Another interesting vehicle which is competing in the same space is the MDI AIRpod, which uses the compressed air to power the vehicle. According to the company website, it may still appear one day (<a href="https://www.mdi.lu/airpod2-en" target="_blank">link</a>). 
 
 
 <p style="text-align: justify; text-justify: inter-word;">
-We also drew a list of functional specifications to have a design workflow close to a real carmaker. In order to have a product suitable for an hypothetical sale, we also followed the French norm for the license-free car. 
+We also drew a list of functional specifications to have a design workflow similar to a real car manufacturer. In order to have a product suitable for a hypothetical sale, we also followed the French standard for a license-free car. 
 </p>
 
 <h3> Vehicle architecture </h3>
 
 <p style="text-align: justify; text-justify: inter-word;">
 <b>Battery:</b>
-For the battery, we chose the NiMH technology from an early stage because it offered a better cost effectiveness compared to the Lithium technology. The location of the battery should be the lowest as possible and ideally close to the front to keep the center of gravity low and closer to the 2-wheel axle in order to avoid rollover. In a first approximation, the choice was to put them on the floor (option A). But a backup solution was to put them on the side of the driver's legs, if the vehicle would reveal to be too unstable (option B). This choice was not the preferred one as it would make it more difficult to enter the vehicle.
+For the battery, we chose NiMH technology from an early stage because it offered a better cost effectiveness compared to Lithium technology. The batteries would ideally be positioned as low as possible to keep the center of gravity low, and close to the front where the 2-wheel axle is located in order to avoid rollover. In a first approximation, the choice was to put them on the floor (option A). A backup solution if the vehicle was to be too unstable was to put them on the sides of the driver's legs (option B). This choice was not the preferred one as it would make it more difficult to enter the vehicle.
 
 <table style="width:100%; text-align: center;">
 	<tr>
@@ -99,7 +99,7 @@ We are grateful to Saft for providing the battery units.
 
 <p style="text-align: justify; text-justify: inter-word;">
 <b>Ergonomics:</b>
-As the objective was to have a low-cost vehicle, we wanted to have a very simple seat. Therefore, the choice to have a fixed angle between the seat and the backrest was made. Only one degree of freedom allowed to adjust the driving position was te seat slider. Thus, the angle of the seat with the floor as well as the wheel position should be carefully chosen to make the driving position confortable for most. An ergonomic study showed that it is possbile for the population from the 10% female to 85% male size to fit confortably. A correct positionning of the pedals was also designed to fit the most.
+As the objective was to make a low-cost vehicle, we wanted to have a very simple seat. Therefore, the choice was made to have a fixed angle between the seat and the backrest.  The only one degree of freedom allowed to adjust the driving position was the seat slider. Thus, the angle of the seat with the floor as well as the steering-wheel position needed to be carefully chosen to make the driving position comfortable for most people. An ergonomic study showed that it was possible to comfortably fit from the 10% female up to the 85% male mannequin. The position of the pedals was also designed to fit the majority of people.
 <table style="width:100%; text-align: center;">
 	<tr>
 	   <th style="text-align:center;"> <img src="/files/Emma_prj/Engineering/Ergonomic_50man.png" width="300" alt="50% man"/> </th>
@@ -116,12 +116,12 @@ As the objective was to have a low-cost vehicle, we wanted to have a very simple
 
 <p style="text-align: justify; text-justify: inter-word;">
 <b>Powertrain design:</b>
-As specification, the vehicle should have been able to climb a 33% slope, reach a top speed of 45km/h under 10s. As the cost was a great limitation in the design. We chose to get an off-the-shelf motor. This choice made it impossible to meet the criterias with a static gear ratio. Therefore, we made the choice to integrate a CVT in the powetrain. This transmission allowed having enough torque at low speed to climb steap slope and have a decent acceleration, while being able to reach the top speed, making full use of the power available at each time. As a drawback, it required another gear reduction after the CVT making the whole powertrain both heavier and larger. 
+We specified that the vehicle should be able to climb a 33% slope and reach a top speed of 45km/h in under 10s. As the cost was a great limitation in the design, we chose to use an off-the-shelf motor. This choice made it impossible to meet the criteria with a static gear ratio. Therefore, we made the choice to integrate a CVT in the powetrain. This transmission allowed enough torque at low speed to climb steep slopes and have a decent acceleration, while still being able to reach the top speed, making full use of the power available in each scenario. As a drawback it required another gear reduction after the CVT, making the whole powertrain both heavier and larger. 
 </p>
 
 <p style="text-align: justify; text-justify: inter-word;">
 <b>Charger:</b> 
-In order to contain the weight of the vehicle, and the because the vehicle was designed as a commuter, the range was quite low with around 50km. To allow peace of mind to the driver and knowledge that recharging would be possible from most places, it was important to have a charger embedded in the vehicle. It was also a requirement for people using the vehicle to go to work at more than 25km. We were able to find a position under the hood, where a hatch would be easy to integrate.
+In order to contain the weight of the vehicle, and because the vehicle was designed as a commuter, the range was quite low at around 50km. To allow peace of mind to the driver and knowledge that recharging would be possible from most places, it was important to have a charger embedded in the vehicle. It was also a requirement who would be using the vehicle to go to work more than 25km. We were able to find a position under the hood where a hatch would be easy to integrate.
 </p>
 
 <div id="gallery_container"></div>
@@ -148,7 +148,7 @@ In order to contain the weight of the vehicle, and the because the vehicle was d
 
 <h3> Main frame </h3>
 <p style="text-align: justify; text-justify: inter-word;">
-From the CAD design, we cut, bent and weld tubes to realize the frame.
+From the CAD design, we cut, bent and welded tubes to make the frame.
 </p>
 
 <div id="gallery_container"></div>
@@ -171,8 +171,8 @@ From the CAD design, we cut, bent and weld tubes to realize the frame.
 
 <h3> Swing arm </h3>
 <p style="text-align: justify; text-justify: inter-word;">
-The idea was integrate all the powertrain the closest to the rear wheel to provide as much space in the vehicle as possible.
-We finally chose to put everything on the swing arm as it was the easiest from a vehicle architecture point of view. It had also the advantage of reducing the complexity for the chain setup and maintenance. Although from a vehicle dynamics point of view, it is obviously not the right choice given the amount of unsuspended mass. But it was a compromise we accepted for a concept car.
+The idea was to integrate the whole powertrain as close as possible to the rear wheel to provide the most space in the vehicle.
+We finally chose to put everything on the swing arm as it was the easiest from a vehicle architecture point of view. It also had the advantage of reducing the complexity for the chain setup and maintenance. Although from a vehicle dynamics point of view, it is obviously not the right choice given the amount of unsuspended mass. But it was a compromise we accepted for a concept car.
 Therefore, the swing arm was designed to receive the electric motor, the CVT and the gear reducer. 
 </p>
 
@@ -196,7 +196,7 @@ Therefore, the swing arm was designed to receive the electric motor, the CVT and
 
 <h1> Creation of the Body Master </h1>
 <p style="text-align: justify; text-justify: inter-word;">
-The bodywork started with the installation of wooden boxes, fixed to the the frame. The idea was to creatte the boday around the frame to be sure it will fit. Indeed, it was possible to check the suspension wheel course and make sure any body parts were in the way.
+The bodywork started with the installation of wooden boxes fixed to the frame. The idea was to create the body around the frame to be sure it would fit. Indeed, it was possible to check the suspension wheel course and make sure any body parts were not in the way.
 </p>
 
 <div id="gallery_container"></div>
@@ -218,8 +218,8 @@ The bodywork started with the installation of wooden boxes, fixed to the the fra
 </div>
 
 <p style="text-align: justify; text-justify: inter-word;">
-Second phase of the master's creation was to cut layers of foam according to body sections. First, the sections, previously prepared on CAD, were printed on paper and cut. They were then drawn on a first layer of foam. Then, each layer were doubled to get the symetrical section at each cut. A rough section cutting was made with a band saw and finished precisely with a lathe-mounted disk sander.
-As it was chosen to build the master around the frame to make sure that it will fit in the end, a long session of adjustment of the sections were made manually to allow them to fit onto the wooden boxes. Then, a first squeezing of the section was made to make sure evyrthing fits and being able to mark the position of the sections on the wood. Then, one by one were glued on the wooden boxes with putty. In this phase, a setting plate was made to provide a reference for the curve of the body. It was useful to make sure the sections are well placed and also to have a reference later during the sanding.
+The second phase of the master's creation was to cut layers of foam according to the shapes of the body sections. The sections, previously prepared on CAD, were printed on paper and cut. They were then drawn on a first layer of foam. Then, each layer was doubled to get the symetrical section at each cut. A rough section cutting was made with a band saw and finished precisely with a lathe-mounted disk sander.
+Due to the choice to build the master around the frame to make sure that it would fit in the end, a long session of manually cutting and adjusting the sections was necessary to allow them to fit onto the wooden boxes. Then, a first squeezing of the section was made to make sure everything fit and to mark the position of the sections on the wood. Then, one by one they were glued onto the wooden boxes with putty. In this phase, a setting plate was made to provide a reference for the curve of the body. It was useful to make sure the sections were well placed and also to have a reference later during the sanding.
 </p>
 
 
@@ -254,7 +254,7 @@ As it was chosen to build the master around the frame to make sure that it will 
 </div>
 
 <p style="text-align: justify; text-justify: inter-word;">
-Third phase consists in the sanding of the foam, to create the final shape of the body. The blue and black paint are here to highlight the part to sand, as the two neighboring sections should be continuous.
+Third phase consisted of the sanding of the foam to create the final shape of the body. The blue and black paint were used to highlight the part to sand, as the two neighboring sections needed to be continuous.
 </p>
 
 <div id="gallery_container"></div>
@@ -276,8 +276,8 @@ Third phase consists in the sanding of the foam, to create the final shape of th
 </div>
 
 <p style="text-align: justify; text-justify: inter-word;">
-After the shape of the body was finalized, a layer of glass fiber was applied on the foam. The objective was to have a robust master to create the mold of the body. A copy of the windshield in resin was also made to avoid modeling this part in the foam. 
-First, putty has been applied on the section's junctions to make sure that they are not seen on the master. Then, glassfiber layers were cutted and placed on the different surfaces of the vehicule. The resin was applied and debubblizer was used to remove any potential air bubbles. The resin application should be fast to have a uniform thickness. 
+After the shape of the body was finalized, a layer of glass fiber was applied to the foam. The objective was to have a robust master to create the mold of the body. A resin copy of the windshield was also made to avoid modeling this part in foam. 
+First, putty had been applied to the section's junctions to make sure that they wouldn't seen on the master. Then, glass fiber layers were cut and placed on the different surfaces of the vehicle. The resin was applied and debubblizers were used to remove any potential air bubbles. The resin application had to be fast to obtain uniform thickness. 
 </p>
 
 <div id="gallery_container"></div>
@@ -301,7 +301,7 @@ First, putty has been applied on the section's junctions to make sure that they 
 <h1> Public presentation at the Paris Motor Show 2010 </h1>
 
 <p style="text-align: justify; text-justify: inter-word;">
-The vehicle was presented for the first time to the public at the Paris Motor Show 2010 on the ESTACA booth. As the fabrication of the Master was longer than expected, a presentation in an intermediate stat was decided. Therefore, the fiberglass was painted in the vehicle color and some tape were placed on the vehicle to highlight the lines. The Powertrain was mounted on the vehicle to give a complete external outlook. 
+The vehicle was presented for the first time to the public at the Paris Motor Show 2010 in the ESTACA booth. As the fabrication of the Master took longer than expected, it was presented in an intermediate state. The fiberglass was painted in the vehicle's color and tape was placed on the vehicle to highlight the lines. The powertrain was mounted on the vehicle to give a complete external look. 
 </p>
 
 <div id="gallery_container"></div>
@@ -324,7 +324,7 @@ The vehicle was presented for the first time to the public at the Paris Motor Sh
 <h1> Public presentation at the Paris Motor Show 2012 </h1>
 
 <p style="text-align: justify; text-justify: inter-word;">
-As the bodywork was completed, the final external look of the car was unveiled at the Paris Motor Show 2012. As a particularity of the car, it had only one door. As a one seater, two are not needed and it simplified the realization of the body, with less moving part to adjust. The lenticular headlights were also installed.
+Once the bodywork was completed, the final external look of the car was unveiled at the Paris Motor Show 2012. As a peculiarity of the car, it had only one door. As a one seater, two were not needed and it simplified the fabrication of the body, with less moving parts to adjust. The lenticular headlights were also installed.
 </p>
 
 <div style="width: 100%; display: table;">
