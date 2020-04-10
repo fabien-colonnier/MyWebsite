@@ -6,6 +6,10 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://fabien-colonnier.com/galleries/Body/rss.xml</loc>
+  <lastmod>2020-04-10T07:55:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://fabien-colonnier.com/galleries/Bodywork_Wood/rss.xml</loc>
   <lastmod>2020-04-03T03:03:00Z</lastmod>
  </sitemap>
@@ -47,6 +51,6 @@
  </sitemap>
  <sitemap>
   <loc>https://fabien-colonnier.com/sitemap.xml</loc>
-  <lastmod>2020-04-03T03:03:00Z</lastmod>
+  <lastmod>2020-04-10T07:55:00Z</lastmod>
  </sitemap>
 </sitemapindex>

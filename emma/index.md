@@ -88,14 +88,9 @@ For the battery, we chose NiMH technology from an early stage because it offered
 	   <th style="text-align:center;"> Option B </th>
 	</tr>
 </table>
-<br/>
-
 We are grateful to Saft for providing the battery units.
-<br/>
-
-
 </p>
-
+<br/>
 
 <p style="text-align: justify; text-justify: inter-word;">
 <b>Ergonomics:</b>
@@ -159,7 +154,7 @@ From the CAD design, we cut, bent and welded tubes to make the frame.
 	<a href="/galleries/Frame/DSC00313.JPG" class="thumbnail image-reference" >
             <img src="/galleries/Frame/DSC00313.thumbnail.JPG" height="135px" alt="Frame in the middle of the process on top of the marble" style="margin: 1px 0px"></a>
 	<a href="/galleries/Frame/DSC00318.JPG" class="thumbnail image-reference" >
-            <img src="/galleries/Frame/DSC00318.thumbnail.JPG" height="135px" alt="Display of the archs' welding setup" style="margin: 1px 0px"></a>
+            <img src="/galleries/Frame/DSC00318.thumbnail.JPG" height="135px" alt="Display of the arches' welding setup" style="margin: 1px 0px"></a>
 	<a href="/galleries/Frame/DSC00392.JPG" class="thumbnail image-reference" >
             <img src="/galleries/Frame/DSC00392.thumbnail.JPG" height="135px" alt="Link of the wing arm with the frame" style="margin: 1px 0px"></a>
 	<a href="/galleries/Frame/DSC00390.JPG" class="thumbnail image-reference" >
@@ -218,7 +213,7 @@ The bodywork started with the installation of wooden boxes fixed to the frame. T
 </div>
 
 <p style="text-align: justify; text-justify: inter-word;">
-The second phase of the master's creation was to cut layers of foam according to the shapes of the body sections. The sections, previously prepared on CAD, were printed on paper and cut. They were then drawn on a first layer of foam. Then, each layer was doubled to get the symetrical section at each cut. A rough section cutting was made with a band saw and finished precisely with a lathe-mounted disk sander.
+The second phase of the master's creation was to cut layers of foam according to the shapes of the body sections. The sections, previously prepared on CAD, were printed on paper and cut. They were then drawn on a first layer of foam. Then, each layer was doubled to get the symmetrical section at each cut. A rough section cutting was made with a band saw and finished precisely with a lathe-mounted disk sander.
 Due to the choice to build the master around the frame to make sure that it would fit in the end, a long session of manually cutting and adjusting the sections was necessary to allow them to fit onto the wooden boxes. Then, a first squeezing of the section was made to make sure everything fit and to mark the position of the sections on the wood. Then, one by one they were glued onto the wooden boxes with putty. In this phase, a setting plate was made to provide a reference for the curve of the body. It was useful to make sure the sections were well placed and also to have a reference later during the sanding.
 </p>
 
@@ -231,7 +226,7 @@ Due to the choice to build the master around the frame to make sure that it woul
 	<a href="/galleries/Foam_Sections/DSCF0089.JPG" class="thumbnail image-reference" >
             <img src="/galleries/Foam_Sections/DSCF0089.thumbnail.JPG" alt="Section drawn on the foam" style="margin: 1px 0px"></a>
 	<a href="/galleries/Foam_Sections/DSCF0123.JPG" class="thumbnail image-reference" >
-            <img src="/galleries/Foam_Sections/DSCF0123.thumbnail.JPG" alt="Foam sections prepared and attached by pairs to provide symetrical sides" style="margin: 1px 0px"></a>
+            <img src="/galleries/Foam_Sections/DSCF0123.thumbnail.JPG" alt="Foam sections prepared and attached by pairs to provide symmetrical sides" style="margin: 1px 0px"></a>
 	<a href="/galleries/Foam_Sections/DSCF0131.JPG" class="thumbnail image-reference" >
             <img src="/galleries/Foam_Sections/DSCF0131.thumbnail.JPG" alt="Rough cut of the sections with the band saw"style="margin: 1px 0px"></a>
 	<a href="/galleries/Foam_Sections/DSCF0160.JPG" class="thumbnail image-reference" >
@@ -320,6 +315,31 @@ The vehicle was presented for the first time to the public at the Paris Motor Sh
 </ul>
 </div>
 
+<h1> From the master to the bodywork </h1>
+
+<p style="text-align: justify; text-justify: inter-word;">
+
+To get the body of the car, two major steps are needed. First, creating the mold, then doing the bodywork itself. Before the mold, a hard work of correcting the surface of the master was required, to create smooth lines. Then, a wood panel was created in the center of the vehicle to create the contact surface of the two bodywork sides. Then, application of wax was made onto the master before applying the glass fiber and resin similarly to the master's creation. Once the mold are reinforced with wood panel, the bodywork fabrication is made, again with the same process. Both fiberglass sides are assembled and sanding is done to refined the lines of the car. The opening and the different body parts were cut. Mounting parts were made to fix the bodywork to the frame. Finally, the painting was made. The vehicle was nearly ready for its second public appearance.
+
+</p>
+
+<div id="gallery_container"></div>
+<div class="rows">
+    <ul class="thumbnails">	
+	<a href="/galleries/Body/0.jpg" class="thumbnail image-reference" >
+            <img src="/galleries/Body/0.thumbnail.jpg" height="135px" alt="Two sides of the mold over the master" style="margin: 1px 0px"></a>
+	<a href="/galleries/Body/1.jpg" class="thumbnail image-reference" >
+            <img src="/galleries/Body/1.thumbnail.jpg" height="135px" alt="Bodywork assembled and sanding started" style="margin: 1px 0px"></a>
+	<a href="/galleries/Body/5.jpg" class="thumbnail image-reference" >
+            <img src="/galleries/Body/5.thumbnail.jpg" height="135px" alt="Bodywork sliced, positionning on the frame" style="margin: 1px 0px"></a>
+	<a href="/galleries/Body/7.jpg" class="thumbnail image-reference" >
+            <img src="/galleries/Body/7_small.jpg" height="135px" alt="Openings cut" style="margin: 1px 0px"></a>
+	<a href="/galleries/Body/8.jpg" class="thumbnail image-reference" >
+            <img src="/galleries/Body/8_small.jpg" height="135px" alt="Prepared for the painting" style="margin: 1px 0px"></a>
+	<a href="/galleries/Body/index.html" class="thumbnail image-reference" >
+            <img src="/files/Useful_pics/More_pic.png" height="135px" alt="Link to the gallery" style="margin: 1px 0px"></a>
+</ul>
+</div>
 
 <h1> Public presentation at the Paris Motor Show 2012 </h1>
 
@@ -355,6 +375,15 @@ Once the bodywork was completed, the final external look of the car was unveiled
     </div>
 </div>
 
+<h1> Epilogue </h1>
+
+<p style="text-align: justify; text-justify: inter-word;">
+My participation in this project ended there as I was no longer a student and more importantly not close to Laval anymore. We could say that we developed the vehicle from scratch to a functional vehicle. Naturally, the vehicle was not finished at that stage. The interior was the last big part that last from a design perspective. From a manufacturing one, more works needed to be done to really have a completed vehicle. The suspensions settings required refinements to adapt for the differences between the initial plan and the real vehicle. The braking system was lacking of reliability. All the electrical wirings and all the accessories needed to be installed even if they were ready in 2012. Of course, I am sure that I forget many other small things as I am writing this list. 
+<br/>
+From the promise of only constructing a concept car, we achieved way more. We drew specifications, created a possible marketing plan. We made some compromises to respect constraints such as usability, vehicle dynamics, norms, cost effectiveness... I could say that I am proud to have realized such an ambitious project. It was challenging but allowed us to learn a lot from different areas.
+
+</p>
+<br/>
 
 	
 <h1> Acknowledgments </h1>
