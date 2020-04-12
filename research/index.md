@@ -19,7 +19,7 @@ A nice description of how the sensor works can be found <a href="https://youtu.b
 <li>
 <p>The Davis240C sensor was used to compute Optic Flow and perform obstacle avoidance with a quadrotor. <br /> </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nn2wyDYJI8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nn2wyDYJI8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
 <!--video width="560" height="315" controls preload="none" frameborder="0">
    <source src="https://linklings.s3.amazonaws.com/organizations/acra/acra2018/submissions/stype101/UGjfY-pap104s1-file2.mp4" type="video/mp4">
    Your browser does not support the video tag.
@@ -41,13 +41,13 @@ Using an Artificial compound eye submitted to periodic micro-movements displays 
 	<ul>
 	<li>
 	<p>Robotic visual stabilization and short-range odometry</p>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/4_hqCgunhNw" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/4_hqCgunhNw" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
 	</li>
 	<li>
 	<p>Robotic visual pursuit under different light conditions </p>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/kdjJ6t7d2pM" frameborder="0" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/kdjJ6t7d2pM" frameborder="0" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
 	<p> <br />which mimics the behavior of hoverfly trajectories</p>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/fciQr0o0G7g" frameborder="0" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/fciQr0o0G7g" frameborder="0" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
 	</li>
 	</ul>
 </li>
@@ -55,7 +55,7 @@ Using an Artificial compound eye submitted to periodic micro-movements displays 
 
 <li> <p>Collaboration on the robot LORA, which aims at replicating bees navigation into a large corridor. The different behaviors such as centering, wall-following and speed regulation in a tappered corridor were reproduced using Optic Flow measurements. <br /> </p>
 
-<iframe frameborder="0" width="560" height="315" src="https://www.dailymotion.com/embed/video/xuggrs" allowfullscreen allow=""></iframe>
+<iframe frameborder="0" width="560" height="315" src="https://www.dailymotion.com/embed/video/xuggrs" allowfullscreen="true" allow=""></iframe>
 </li>
 
 </ul>

@@ -16,7 +16,7 @@ This page describes some of my personal projects I have done. For now, only one 
 
 This project was developed during my student time with the help of Valentin Magnier and many others.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/egFvB4YxjMU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/egFvB4YxjMU" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
 
 <br>
 
