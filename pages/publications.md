@@ -14,7 +14,10 @@ My list of publications is also available on <a href="https://scholar.google.com
 <h1> Journals </h1>
 
 <b>F. Colonnier</b>, S. Ramirez-Martinez, S. Viollet and F. Ruffier, "A bio-inspired sighted robot chases like a hoverfly", <i>Bioinspiration & biomimetics</i>, Jan. 2019 
-<a href="https://iopscience.iop.org/article/10.1088/1748-3190/aaffa4/pdf" target="_blank"> published version</a>, <a href="https://youtu.be/kdjJ6t7d2pM" target="_blank"> video 1</a>, <a href="https://youtu.be/fciQr0o0G7g" target="_blank"> video 2 </a>, <a href="files/B_B_ACEbot_PrePrint.pdf" PrePrint</a>
+<a href="https://iopscience.iop.org/article/10.1088/1748-3190/aaffa4/pdf" target="_blank"> published version</a>, 
+<a href="https://youtu.be/kdjJ6t7d2pM" target="_blank"> video 1</a>, 
+<a href="https://youtu.be/fciQr0o0G7g" target="_blank"> video 2 </a>, 
+<a href="./../files/B_B_ACEbot_PrePrint.pdf"> PrePrint</a>
 
 T. Raharijaona, R. Mawonou, T.V. Nguyen, <b>F. Colonnier</b>, M. Boyron, J. Diperi and S. Viollet, "Local Positioning System Using Flickering Infrared LEDs", <i>MDPI Sensors</i>, Sep. 2017
 <a href="https://www.mdpi.com/1424-8220/17/11/2518/pdf" target="_blank"> PDF </a>
@@ -42,10 +45,10 @@ Valentino Braitenberg award - Best talk prize, Living Machines 2015
 S. Viollet, <b>F. Colonnier</b> and E. Vanhoutte, "Système de mesure de la distance d'un obstacle par flux optique", <i>European patent</i> (published number WO2017FR52739)
 
 <h1>Workshops</h1>
-A. Manecy, E. Vanhoutte, S. Mafrica, <b>F. Colonnier</b>, F. Ruffier, N. Marchand and S. Viollet, "X4-MaG and RT-MaG: a low-cost open-source micro-quadrotor based on Real-Time Linux and a new Matlab/Simulink toolbox", <i>IROS Aerial Open Source Robotics Workshop</i>, 2015 <a href="files/Abstract_IROS_X4.pdf"> PDF </a>
+A. Manecy, E. Vanhoutte, S. Mafrica, <b>F. Colonnier</b>, F. Ruffier, N. Marchand and S. Viollet, "X4-MaG and RT-MaG: a low-cost open-source micro-quadrotor based on Real-Time Linux and a new Matlab/Simulink toolbox", <i>IROS Aerial Open Source Robotics Workshop</i>, 2015 <a href="./../files/Abstract_IROS_X4.pdf"> PDF </a>
 
 <b>F. Colonnier</b>, A. Manecy, R. Juston and S. Viollet, "Hyperacuity: Application to visual stabilization",
-<i>IROS Vision-Based Control and Navigation of Small, Light-Weight UAVs Workshop</i>, 2015 <a href="files/Abstract_IROS_HyperRob.pdf"> PDF </a>
+<i>IROS Vision-Based Control and Navigation of Small, Light-Weight UAVs Workshop</i>, 2015 <a href="./../files/Abstract_IROS_HyperRob.pdf"> PDF </a>
 
 <h1>Other Presentations and Demonstrations</h1>
 
