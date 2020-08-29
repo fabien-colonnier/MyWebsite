@@ -52,7 +52,7 @@ A. Manecy, E. Vanhoutte, S. Mafrica, <b>F. Colonnier</b>, F. Ruffier, N. Marchan
 
 <h1>Other Presentations and Demonstrations</h1>
 
-<b>F. Colonnier</b>, "Event-based Visual Sensor for Obstacle Avoidance ad Localization", <i>SinFra 2019 - Symposium on Artificial Intelligence</i>, Singapore, 2019 
+<b>F. Colonnier</b>, "Event-based Visual Sensor for Obstacle Avoidance and Localization", <i>SinFra 2019 - Symposium on Artificial Intelligence</i>, Singapore, 2019 
 
 <b>F. Colonnier</b>, S. Viollet, "Mecanum Wheel Robot : Presentation and application", <i>TechDays 2016, 4ème journées technologiques Robotex</i>, IRCCyN, Nantes (France), Sep 2016
 
