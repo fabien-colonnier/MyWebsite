@@ -45,10 +45,10 @@ aside {
 	<div style="display: table-row; position: right;">
         <div style="width: 75%; display: table-cell;"> 
 	<b>Research Scientist</b> <br /> 
-	Institute for Infocomm Research (I2R), an A*STAR entity
+	<a href="https://www.a-star.edu.sg/i2r" target="_blank" > Institute for Infocomm Research (I2R) </a>, an A*STAR entity
 	<ul>
+	  <li>Implementating Neuromorphic hardware for robotic applications</li>
 	  <li>Developing a Spiking Neural Network for heading control</li>
-	  <li>Continuing the research on Spiking Neural Networks for robotic localization</li>
 	</ul>
 	</div>	
     
@@ -85,7 +85,7 @@ aside {
 	Biorobotics team at the <a href="https://ism.univ-amu.fr/en/" target="_blank"> Institute of Movement Sciences</a>
 	<ul>
 	  <li>Designed bio-inspired visual algorithm for target tracking application and visual odometry</li>
-	  <li>Implemented of a controller for mobile robot positionning</li>
+	  <li>Implemented a controller for mobile robot positionning</li>
 	  <li>Involved in the <a href="http://www.gipsa-lab.fr/projet/RT-MaG/" target="_blank"> RT-MaG project</a>: a Matlab toolbox to program Real-Time application on Computer-on-Module running a Linux OS</li>
 	</ul>
     	</div>
@@ -188,7 +188,7 @@ aside {
 	<b>Programming languages</b> 
 	<ul>
 	  <li>Expert: C, Matlab, LaTeX, VBA (macro Excel) </li>
-	  <li>Intermediate: C++, Python, C#</li>
+	  <li>Intermediate: C++, Python, Pytorch</li>
 	</ul>
  	
 	<b>Embedded Systems</b> 
@@ -200,7 +200,7 @@ aside {
 	</ul>
 
 <p>	<b>Simulation Software:</b> Matlab & Simulink, GT-suite, Flowmaster <br />
-	<b>CAD Software:</b> Solidworks, Catia V5 <br />
+	<b>CAD Software:</b> Solidworks, Onshape <br />
 	<b>Others:</b> Microsoft Office Suite, Adobe Premier, Inkscape <br />
 </p>
 </div>
