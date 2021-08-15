@@ -42,7 +42,8 @@ Valentino Braitenberg award - Best talk prize, Living Machines 2015
 
 <h1>Patent</h1>
 
-S. Viollet, <b>F. Colonnier</b> and E. Vanhoutte, "Système de mesure de la distance d'un obstacle par flux optique", <i>European patent</i> (published number WO2017FR52739)
+S. Viollet, <b>F. Colonnier</b> and E. Vanhoutte, "System for measuring the distance of an obstacle using
+optic flow", <i>European patent</i> (published number WO2017FR52739), <i>US patent</i> (published number 16339030)
 
 <h1>Workshops</h1>
 A. Manecy, E. Vanhoutte, S. Mafrica, <b>F. Colonnier</b>, F. Ruffier, N. Marchand and S. Viollet, "X4-MaG and RT-MaG: a low-cost open-source micro-quadrotor based on Real-Time Linux and a new Matlab/Simulink toolbox", <i>IROS Aerial Open Source Robotics Workshop</i>, 2015 <a href="./../files/Abstract_IROS_X4.pdf"> PDF </a>
