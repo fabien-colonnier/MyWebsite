@@ -41,3 +41,13 @@ nikola serve -b
 nikola github_deploy -m "<commit msg>"
 deactivate
 ```
+
+
+### other useful references
+
+For customization with Nikola
+https://paulomarconi.github.io/blog/Nikola-guide/#Clean-version-of-post_ipynb.css
+
+For icon
+https://fontawesome.com/
+https://jpswalsh.github.io/academicons/

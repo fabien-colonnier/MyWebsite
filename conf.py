@@ -157,7 +157,8 @@ THEME = "bootstrap4"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
-THEME_COLOR = '#85'
+THEME_COLOR = '#FF8585'
+#'#85'
 
 # Theme configuration. Fully theme-dependent. (translatable)
 # Examples below are for bootblog4.
@@ -1138,13 +1139,12 @@ SHOW_SOURCELINK = False
 # change it for a FeedBurner feed or something else.
 # RSS_LINK = None
 
+
 # A search form to search this site, for the sidebar. You can use a Google
 # custom search (https://www.google.com/cse/)
 # Or a DuckDuckGo search: https://duckduckgo.com/search_box.html
 # Default is no search form.
 # (translatable)
-# SEARCH_FORM = ""
-#
 # This search form works for any site and looks good in the "site" theme where
 # it appears on the navigation bar:
 #
@@ -1178,6 +1178,35 @@ SHOW_SOURCELINK = False
 # <!-- End of custom search -->
 # """ % SITE_URL
 
+#Use of the SEARCH_FORM space to put social media links:
+SEARCH_FORM = """
+<div style="display: inline-block;" >
+		<span class="fa-stack fa-sm">
+		<a href="mailto:fabien.colonnier@gmail.com">
+		    <i class="fa fa-square fa-stack-2x" style="color:white"></i>
+		    <i class="fa fa-envelope fa-stack-1x" style="color:#343a40;"></i>
+		</a>
+		</span>
+		<span class="fa-stack fa-sm">
+		<a href="https://scholar.google.com.sg/citations?hl=en&user=sxMxQZoAAAAJ">
+		    <i class="ai ai-google-scholar-square ai-inverse ai-2x"></i>
+		</a>
+		</span>
+		<span class="fa-stack fa-sm">
+		<a href="https://github.com/fabien-colonnier">
+		    <i class="fa fa-github-square fa-stack-2x" style="color:white"></i>
+		</a>
+		</span>
+		<span class="fa-stack fa-sm">
+		<a href="https://www.linkedin.com/in/fabien-colonnier-8a21ab51/en">
+		    <i class="fa fa-square fa-stack-2x" style="color:white"></i>
+		    <i class="fa fa-linkedin fa-stack-1x" style="color:#343a40;" ></i>
+		</a>
+		</span>
+	</div>
+"""
+# The color of the envelope and the linkedin logo are chosen to be the same as the background. If this one change, the color need to be adapted
+
 # Use content distribution networks for jQuery, twitter-bootstrap css and js,
 # and html5shiv (for older versions of Internet Explorer)
 # If this is True, jQuery and html5shiv are served from the Google CDN and
@@ -1195,7 +1224,12 @@ SHOW_SOURCELINK = False
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-# EXTRA_HEAD_DATA = ""
+EXTRA_HEAD_DATA = '''
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+'''
+# add Add FontAwesone and Academic Icons to use 
+
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
