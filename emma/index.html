@@ -27,7 +27,8 @@
 <!-- Menubar -->
 
 <nav class="navbar navbar-expand-md static-top mb-4
-navbar-dark bg-dark
+navbar-dark
+bg-dark
 "><div class="container">
 <!-- This keeps the margins nice -->
         <a class="navbar-brand" href="../">
@@ -142,7 +143,6 @@ Everything started with a design contest in the engineering school, ESTACA, wher
 <div class="imgbox">
     <img class="center-fit-small" src="../files/Emma_prj/Emma_drawing.png" alt="Emma sketches">
 </div>
-
 <p><br></p>
 <p style="text-align: justify; text-justify: inter-word;">
 His concept was inspired by the Peel P50, the smallest car in the world according to Top Gear (<a href="https://youtu.be/dJfSS0ZXYdo" target="_blank">youtube link</a>). It was designed to be an electric urban car. It won the contest as it was an innovative idea and a great challenge from an engineering point of view. 
@@ -154,7 +154,8 @@ The objective was for us to build this vehicle with the aim of being as close as
 <h2> Engineering conception </h2>
 
 <p style="text-align: justify; text-justify: inter-word;">
-Since we were trying to make a commercial quality vehicle, we did a survey of all the potential competitors. In 2009, the market for such urban zero-emission vehicles was small, therefore all the other examples were very odd and mostly invisible in the automotive landscape at the time. I won't go into detail because most of the examples are not sold anymore or were never made available to the public. Currently, the Aixam e-city is the most easily available vehicle from that time (<a href="https://www.aixam.com/en/e-aixam-range" target="_blank">link</a>). Another interesting vehicle which is competing in the same space is the MDI AIRpod, which uses the compressed air to power the vehicle. According to the company website, it may still appear one day (<a href="https://www.mdi.lu/airpod2-en" target="_blank">link</a>).
+Since we were trying to make a commercial quality vehicle, we did a survey of all the potential competitors. In 2009, the market for such urban zero-emission vehicles was small, therefore all the other examples were very odd and mostly invisible in the automotive landscape at the time. I won't go into detail because most of the examples are not sold anymore or were never made available to the public. Currently, the Aixam e-city is the most easily available vehicle from that time (<a href="https://www.aixam.com/en/e-aixam-range" target="_blank">link</a>). Another interesting vehicle which is competing in the same space is the MDI AIRpod, which uses the compressed air to power the vehicle. According to the company website, it may still appear one day (<a href="https://www.mdi.lu/airpod2-en" target="_blank">link</a>). 
+
 
 </p>
 <p style="text-align: justify; text-justify: inter-word;">
@@ -547,9 +548,7 @@ From the promise of only constructing a concept car, we achieved way more. We dr
         <script src="../assets/js/all-nocdn.js"></script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>

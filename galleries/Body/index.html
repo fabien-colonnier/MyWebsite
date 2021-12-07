@@ -21,6 +21,13 @@
         position: absolute;
     }
 </style>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
+<meta property="og:site_name" content="Fabien Colonnier">
+<meta property="og:title" content="Emma's body manufacturing">
+<meta property="og:url" content="https://fabien-colonnier.com/galleries/Body/">
+<meta property="og:description" content="Pictures showing the bodywork">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2021-12-07T11:43:11+08:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -28,7 +35,8 @@
 <!-- Menubar -->
 
 <nav class="navbar navbar-expand-md static-top mb-4
-navbar-dark bg-dark
+navbar-dark
+bg-dark
 "><div class="container">
 <!-- This keeps the margins nice -->
         <a class="navbar-brand" href="../../">
@@ -112,43 +120,43 @@ navbar-dark bg-dark
 <ul class="thumbnails">
 <li>
 <a href="0.jpg" class="thumbnail image-reference" title="Two sides of the mold over the master">
-            <img src="0.thumbnail.jpg" alt="Two sides of the mold over the master"></a>
+            <img src="0.thumbnail.jpg" alt="Two sides of the mold over the master" loading="lazy"></a>
         </li>
 <li>
 <a href="1.jpg" class="thumbnail image-reference" title="Bodywork assembled and sanding started (1)">
-            <img src="1.thumbnail.jpg" alt="Bodywork assembled and sanding started (1)"></a>
+            <img src="1.thumbnail.jpg" alt="Bodywork assembled and sanding started (1)" loading="lazy"></a>
         </li>
 <li>
 <a href="2.jpg" class="thumbnail image-reference" title="Bodywork assembled and sanding started (2)">
-            <img src="2.thumbnail.jpg" alt="Bodywork assembled and sanding started (2)"></a>
+            <img src="2.thumbnail.jpg" alt="Bodywork assembled and sanding started (2)" loading="lazy"></a>
         </li>
 <li>
 <a href="3.jpg" class="thumbnail image-reference" title="Bodywork assembled and sanding started (3)">
-            <img src="3.thumbnail.jpg" alt="Bodywork assembled and sanding started (3)"></a>
+            <img src="3.thumbnail.jpg" alt="Bodywork assembled and sanding started (3)" loading="lazy"></a>
         </li>
 <li>
 <a href="5.jpg" class="thumbnail image-reference" title="Bodywork sliced, positionning on the frame">
-            <img src="5.thumbnail.jpg" alt="Bodywork sliced, positionning on the frame"></a>
+            <img src="5.thumbnail.jpg" alt="Bodywork sliced, positionning on the frame" loading="lazy"></a>
         </li>
 <li>
 <a href="6.jpg" class="thumbnail image-reference" title="inside picture showing the frame mounts">
-            <img src="6.thumbnail.jpg" alt="inside picture showing the frame mounts"></a>
+            <img src="6.thumbnail.jpg" alt="inside picture showing the frame mounts" loading="lazy"></a>
         </li>
 <li>
 <a href="4.jpg" class="thumbnail image-reference" title="Drawing of the openings">
-            <img src="4.thumbnail.jpg" alt="Drawing of the openings"></a>
+            <img src="4.thumbnail.jpg" alt="Drawing of the openings" loading="lazy"></a>
         </li>
 <li>
 <a href="7.jpg" class="thumbnail image-reference" title="Openings cut">
-            <img src="7.thumbnail.jpg" alt="Openings cut"></a>
+            <img src="7.thumbnail.jpg" alt="Openings cut" loading="lazy"></a>
         </li>
 <li>
 <a href="9.jpg" class="thumbnail image-reference" title="Bodywork on the frame, outdoor">
-            <img src="9.thumbnail.jpg" alt="Bodywork on the frame, outdoor"></a>
+            <img src="9.thumbnail.jpg" alt="Bodywork on the frame, outdoor" loading="lazy"></a>
         </li>
 <li>
 <a href="8.jpg" class="thumbnail image-reference" title="Prepared for the painting">
-            <img src="8.thumbnail.jpg" alt="Prepared for the painting"></a>
+            <img src="8.thumbnail.jpg" alt="Prepared for the painting" loading="lazy"></a>
 </li>
 </ul>
 </noscript>
@@ -172,9 +180,7 @@ window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnai
 </script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>

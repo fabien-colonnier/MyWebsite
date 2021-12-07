@@ -17,6 +17,17 @@ A nice description of how the sensor works can be found <a href="https://youtu.b
 
 <ul>
 <li>
+<p>A relatively simple event to 3D point matching was used as input measurement of an EKF to perform sensor pose estimation. The algorithm was also adapted for multiple sensors and with mapping it shows good accuracy on the tested environment.<br /> </p>
+
+<table style="width:100%; text-align: center;">
+	<tr>
+	   <th style="text-align:center;"> <iframe width="448" height="252" src="https://www.youtube.com/embed/m2R94LlqpEM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </th>
+	   <th style="text-align:center;"> <iframe width="448" height="252" src="https://www.youtube.com/embed/2u4s0GUAWMI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </th>
+	</tr>
+</table>
+</li>
+
+<li>
 <p>The Davis240C sensor was used to compute Optic Flow and perform obstacle avoidance with a quadrotor. <br /> </p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nn2wyDYJI8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>

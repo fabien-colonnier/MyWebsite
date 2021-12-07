@@ -21,6 +21,14 @@
         position: absolute;
     }
 </style>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
+<meta property="og:site_name" content="Fabien Colonnier">
+<meta property="og:title" content="Foam sanding">
+<meta property="og:url" content="https://fabien-colonnier.com/galleries/Foam_sanding/">
+<meta property="og:description" content="Once the sections are all put together around the frame. The sanding begins to shape the car's body.
+The paint was used to see how much sanding need to be done.">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2021-12-07T11:43:11+08:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -28,7 +36,8 @@
 <!-- Menubar -->
 
 <nav class="navbar navbar-expand-md static-top mb-4
-navbar-dark bg-dark
+navbar-dark
+bg-dark
 "><div class="container">
 <!-- This keeps the margins nice -->
         <a class="navbar-brand" href="../../">
@@ -113,47 +122,47 @@ The paint was used to see how much sanding need to be done.</p>
 <ul class="thumbnails">
 <li>
 <a href="DSCF0320.JPG" class="thumbnail image-reference" title="Side view, beginning sanding. Blue paint is here to help to see the part to sand">
-            <img src="DSCF0320.thumbnail.JPG" alt="Side view, beginning sanding. Blue paint is here to help to see the part to sand"></a>
+            <img src="DSCF0320.thumbnail.JPG" alt="Side view, beginning sanding. Blue paint is here to help to see the part to sand" loading="lazy"></a>
         </li>
 <li>
 <a href="DSCF0326.JPG" class="thumbnail image-reference" title="Left side view, half sanding">
-            <img src="DSCF0326.thumbnail.JPG" alt="Left side view, half sanding"></a>
+            <img src="DSCF0326.thumbnail.JPG" alt="Left side view, half sanding" loading="lazy"></a>
         </li>
 <li>
 <a href="DSCF0324.JPG" class="thumbnail image-reference" title="Back view, half sanding">
-            <img src="DSCF0324.thumbnail.JPG" alt="Back view, half sanding"></a>
+            <img src="DSCF0324.thumbnail.JPG" alt="Back view, half sanding" loading="lazy"></a>
         </li>
 <li>
 <a href="DSCF0330.JPG" class="thumbnail image-reference" title="Right side view, half sanding">
-            <img src="DSCF0330.thumbnail.JPG" alt="Right side view, half sanding"></a>
+            <img src="DSCF0330.thumbnail.JPG" alt="Right side view, half sanding" loading="lazy"></a>
         </li>
 <li>
 <a href="DSCF0333.JPG" class="thumbnail image-reference" title="Front view in the middle of the sanding process">
-            <img src="DSCF0333.thumbnail.JPG" alt="Front view in the middle of the sanding process"></a>
+            <img src="DSCF0333.thumbnail.JPG" alt="Front view in the middle of the sanding process" loading="lazy"></a>
         </li>
 <li>
 <a href="DSCF0339.JPG" class="thumbnail image-reference" title="Rear view, end of the sanding">
-            <img src="DSCF0339.thumbnail.JPG" alt="Rear view, end of the sanding"></a>
+            <img src="DSCF0339.thumbnail.JPG" alt="Rear view, end of the sanding" loading="lazy"></a>
         </li>
 <li>
 <a href="DSCF0340.JPG" class="thumbnail image-reference" title="Second rear view close to the end of the sanding">
-            <img src="DSCF0340.thumbnail.JPG" alt="Second rear view close to the end of the sanding"></a>
+            <img src="DSCF0340.thumbnail.JPG" alt="Second rear view close to the end of the sanding" loading="lazy"></a>
         </li>
 <li>
 <a href="DSCF0342.JPG" class="thumbnail image-reference" title="Front view with the beginning of the wheel arch sanding">
-            <img src="DSCF0342.thumbnail.JPG" alt="Front view with the beginning of the wheel arch sanding"></a>
+            <img src="DSCF0342.thumbnail.JPG" alt="Front view with the beginning of the wheel arch sanding" loading="lazy"></a>
         </li>
 <li>
 <a href="DSCF0352.JPG" class="thumbnail image-reference" title="Front view with the wheel arch checked">
-            <img src="DSCF0352.thumbnail.JPG" alt="Front view with the wheel arch checked"></a>
+            <img src="DSCF0352.thumbnail.JPG" alt="Front view with the wheel arch checked" loading="lazy"></a>
         </li>
 <li>
 <a href="DSCF0349.JPG" class="thumbnail image-reference" title="Side view compared to initial sketch">
-            <img src="DSCF0349.thumbnail.JPG" alt="Side view compared to initial sketch"></a>
+            <img src="DSCF0349.thumbnail.JPG" alt="Side view compared to initial sketch" loading="lazy"></a>
         </li>
 <li>
 <a href="DSCF0350.JPG" class="thumbnail image-reference" title="Side view at the end of sanding">
-            <img src="DSCF0350.thumbnail.JPG" alt="Side view at the end of sanding"></a>
+            <img src="DSCF0350.thumbnail.JPG" alt="Side view at the end of sanding" loading="lazy"></a>
 </li>
 </ul>
 </noscript>
@@ -177,9 +186,7 @@ window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnai
 </script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>

@@ -21,6 +21,14 @@
         position: absolute;
     }
 </style>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
+<meta property="og:site_name" content="Fabien Colonnier">
+<meta property="og:title" content="Paris Motor Show 2010 Presentation">
+<meta property="og:url" content="https://fabien-colonnier.com/galleries/Status_mondial2010/">
+<meta property="og:description" content="Presentation of the concept at the Paris Motor Show 2010. The master was ready and painted and the powertrain installed on the vehicle.
+Tape was put on the master to preview the car lines.">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2021-12-07T11:43:12+08:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -28,7 +36,8 @@
 <!-- Menubar -->
 
 <nav class="navbar navbar-expand-md static-top mb-4
-navbar-dark bg-dark
+navbar-dark
+bg-dark
 "><div class="container">
 <!-- This keeps the margins nice -->
         <a class="navbar-brand" href="../../">
@@ -113,23 +122,23 @@ Tape was put on the master to preview the car lines.</p>
 <ul class="thumbnails">
 <li>
 <a href="DSCF0436.JPG" class="thumbnail image-reference" title="Side of the car">
-            <img src="DSCF0436.thumbnail.JPG" alt="Side of the car"></a>
+            <img src="DSCF0436.thumbnail.JPG" alt="Side of the car" loading="lazy"></a>
         </li>
 <li>
 <a href="DSCF0438.JPG" class="thumbnail image-reference" title="Front, with a tentative design of the headlight">
-            <img src="DSCF0438.thumbnail.JPG" alt="Front, with a tentative design of the headlight"></a>
+            <img src="DSCF0438.thumbnail.JPG" alt="Front, with a tentative design of the headlight" loading="lazy"></a>
         </li>
 <li>
 <a href="DSCF0755.JPG" class="thumbnail image-reference" title="Three quarter back">
-            <img src="DSCF0755.thumbnail.JPG" alt="Three quarter back"></a>
+            <img src="DSCF0755.thumbnail.JPG" alt="Three quarter back" loading="lazy"></a>
         </li>
 <li>
 <a href="DSCF0756.JPG" class="thumbnail image-reference" title="Side (2)">
-            <img src="DSCF0756.thumbnail.JPG" alt="Side (2)"></a>
+            <img src="DSCF0756.thumbnail.JPG" alt="Side (2)" loading="lazy"></a>
         </li>
 <li>
 <a href="DSCF0754.JPG" class="thumbnail image-reference" title="Side (3)">
-            <img src="DSCF0754.thumbnail.JPG" alt="Side (3)"></a>
+            <img src="DSCF0754.thumbnail.JPG" alt="Side (3)" loading="lazy"></a>
 </li>
 </ul>
 </noscript>
@@ -153,9 +162,7 @@ window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnai
 </script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>

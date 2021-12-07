@@ -21,6 +21,13 @@
         position: absolute;
     }
 </style>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
+<meta property="og:site_name" content="Fabien Colonnier">
+<meta property="og:title" content="Frame welding">
+<meta property="og:url" content="https://fabien-colonnier.com/galleries/Frame/">
+<meta property="og:description" content="From the CAD, the tubular structure was cut, bent ad welded together to create the frame of the vehicle.">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2021-12-07T11:43:11+08:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -28,7 +35,8 @@
 <!-- Menubar -->
 
 <nav class="navbar navbar-expand-md static-top mb-4
-navbar-dark bg-dark
+navbar-dark
+bg-dark
 "><div class="container">
 <!-- This keeps the margins nice -->
         <a class="navbar-brand" href="../../">
@@ -112,39 +120,39 @@ navbar-dark bg-dark
 <ul class="thumbnails">
 <li>
 <a href="photo.jpg" class="thumbnail image-reference" title="Front part which should hold the front wheel.">
-            <img src="photo.thumbnail.jpg" alt="Front part which should hold the front wheel."></a>
+            <img src="photo.thumbnail.jpg" alt="Front part which should hold the front wheel." loading="lazy"></a>
         </li>
 <li>
 <a href="DSC00313.JPG" class="thumbnail image-reference" title="Picture of the frame in the middle of the process on top of the marble.">
-            <img src="DSC00313.thumbnail.JPG" alt="Picture of the frame in the middle of the process on top of the marble."></a>
+            <img src="DSC00313.thumbnail.JPG" alt="Picture of the frame in the middle of the process on top of the marble." loading="lazy"></a>
         </li>
 <li>
 <a href="DSC00316.JPG" class="thumbnail image-reference" title="Display of the arches' welding setup (front)">
-            <img src="DSC00316.thumbnail.JPG" alt="Display of the arches' welding setup (front)"></a>
+            <img src="DSC00316.thumbnail.JPG" alt="Display of the arches' welding setup (front)" loading="lazy"></a>
         </li>
 <li>
 <a href="DSC00318.JPG" class="thumbnail image-reference" title="Display of the arches' welding setup (zoom)">
-            <img src="DSC00318.thumbnail.JPG" alt="Display of the arches' welding setup (zoom)"></a>
+            <img src="DSC00318.thumbnail.JPG" alt="Display of the arches' welding setup (zoom)" loading="lazy"></a>
         </li>
 <li>
 <a href="DSC00325.JPG" class="thumbnail image-reference" title="Main shape of the frame.">
-            <img src="DSC00325.thumbnail.JPG" alt="Main shape of the frame."></a>
+            <img src="DSC00325.thumbnail.JPG" alt="Main shape of the frame." loading="lazy"></a>
         </li>
 <li>
 <a href="DSC00390.JPG" class="thumbnail image-reference" title="Side view of the frame">
-            <img src="DSC00390.thumbnail.JPG" alt="Side view of the frame"></a>
+            <img src="DSC00390.thumbnail.JPG" alt="Side view of the frame" loading="lazy"></a>
         </li>
 <li>
 <a href="DSC00392.JPG" class="thumbnail image-reference" title="Link of the wing arm with the frame">
-            <img src="DSC00392.thumbnail.JPG" alt="Link of the wing arm with the frame"></a>
+            <img src="DSC00392.thumbnail.JPG" alt="Link of the wing arm with the frame" loading="lazy"></a>
         </li>
 <li>
 <a href="DSC00394.JPG" class="thumbnail image-reference" title="Front view of the frame with on its wheels">
-            <img src="DSC00394.thumbnail.JPG" alt="Front view of the frame with on its wheels"></a>
+            <img src="DSC00394.thumbnail.JPG" alt="Front view of the frame with on its wheels" loading="lazy"></a>
         </li>
 <li>
 <a href="DSC00391.JPG" class="thumbnail image-reference" title="DSC00391.JPG">
-            <img src="DSC00391.thumbnail.JPG" alt="DSC00391.JPG"></a>
+            <img src="DSC00391.thumbnail.JPG" alt="DSC00391.JPG" loading="lazy"></a>
 </li>
 </ul>
 </noscript>
@@ -168,9 +176,7 @@ window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnai
 </script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>

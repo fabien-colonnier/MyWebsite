@@ -21,6 +21,13 @@
         position: absolute;
     }
 </style>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
+<meta property="og:site_name" content="Fabien Colonnier">
+<meta property="og:title" content="Master's beginning">
+<meta property="og:url" content="https://fabien-colonnier.com/galleries/Bodywork_Wood/">
+<meta property="og:description" content="To start to build the master, we first filled the spaces inside the frame with wood cases. The goal is to avoid using foam where it is not needed.">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2021-12-07T11:43:11+08:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -28,7 +35,8 @@
 <!-- Menubar -->
 
 <nav class="navbar navbar-expand-md static-top mb-4
-navbar-dark bg-dark
+navbar-dark
+bg-dark
 "><div class="container">
 <!-- This keeps the margins nice -->
         <a class="navbar-brand" href="../../">
@@ -112,27 +120,27 @@ navbar-dark bg-dark
 <ul class="thumbnails">
 <li>
 <a href="Three-quarters_view.jpg" class="thumbnail image-reference" title="Three-quarters_view, wooden boxes inside the frame">
-            <img src="Three-quarters_view.thumbnail.jpg" alt="Three-quarters_view, wooden boxes inside the frame"></a>
+            <img src="Three-quarters_view.thumbnail.jpg" alt="Three-quarters_view, wooden boxes inside the frame" loading="lazy"></a>
         </li>
 <li>
 <a href="Front_box.jpg" class="thumbnail image-reference" title="Front wooden box">
-            <img src="Front_box.thumbnail.jpg" alt="Front wooden box"></a>
+            <img src="Front_box.thumbnail.jpg" alt="Front wooden box" loading="lazy"></a>
         </li>
 <li>
 <a href="Wooden_bottom_box.jpg" class="thumbnail image-reference" title="Bottom wooden box">
-            <img src="Wooden_bottom_box.thumbnail.jpg" alt="Bottom wooden box"></a>
+            <img src="Wooden_bottom_box.thumbnail.jpg" alt="Bottom wooden box" loading="lazy"></a>
         </li>
 <li>
 <a href="Wooden_main_box.jpg" class="thumbnail image-reference" title="Main volume">
-            <img src="Wooden_main_box.thumbnail.jpg" alt="Main volume"></a>
+            <img src="Wooden_main_box.thumbnail.jpg" alt="Main volume" loading="lazy"></a>
         </li>
 <li>
 <a href="Wooden_back_box.jpg" class="thumbnail image-reference" title="Back wooden box">
-            <img src="Wooden_back_box.thumbnail.jpg" alt="Back wooden box"></a>
+            <img src="Wooden_back_box.thumbnail.jpg" alt="Back wooden box" loading="lazy"></a>
         </li>
 <li>
 <a href="Side_view.jpg" class="thumbnail image-reference" title="Side_view, wooden boxes inside the frame">
-            <img src="Side_view.thumbnail.jpg" alt="Side_view, wooden boxes inside the frame"></a>
+            <img src="Side_view.thumbnail.jpg" alt="Side_view, wooden boxes inside the frame" loading="lazy"></a>
 </li>
 </ul>
 </noscript>
@@ -156,9 +164,7 @@ window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnai
 </script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>

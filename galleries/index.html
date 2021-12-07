@@ -21,6 +21,7 @@
         position: absolute;
     }
 </style>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -28,7 +29,8 @@
 <!-- Menubar -->
 
 <nav class="navbar navbar-expand-md static-top mb-4
-navbar-dark bg-dark
+navbar-dark
+bg-dark
 "><div class="container">
 <!-- This keeps the margins nice -->
         <a class="navbar-brand" href="../">
@@ -101,17 +103,17 @@ navbar-dark bg-dark
 <nav class="breadcrumbs"><ul class="breadcrumb">
 <li class="breadcrumb-item active">galleries</li>
 </ul></nav><h1>galleries</h1>
-    <ul>
+            <ul>
 <li><a href="Body/">📂 Emma's body manufacturing</a></li>
-        <li><a href="Bodywork_Wood/">📂 Master's beginning</a></li>
-        <li><a href="Foam_sanding/">📂 Foam sanding</a></li>
-        <li><a href="Foam_Sections/">📂 Sections' preparation: cutting and collage on the frame</a></li>
-        <li><a href="Frame/">📂 Frame welding</a></li>
-        <li><a href="Integration_GMP/">📂 Swing arm creation with powertrain assembling</a></li>
-        <li><a href="Master_glassfiber/">📂 Creating the Master</a></li>
-        <li><a href="Status_mondial2010/">📂 Paris Motor Show 2010 Presentation</a></li>
-        <li><a href="Status_mondial2012/">📂 Paris Motor Show 2012 Presentation</a></li>
-    </ul>
+                <li><a href="Bodywork_Wood/">📂 Master's beginning</a></li>
+                <li><a href="Foam_sanding/">📂 Foam sanding</a></li>
+                <li><a href="Foam_Sections/">📂 Sections' preparation: cutting and collage on the frame</a></li>
+                <li><a href="Frame/">📂 Frame welding</a></li>
+                <li><a href="Integration_GMP/">📂 Swing arm creation with powertrain assembling</a></li>
+                <li><a href="Master_glassfiber/">📂 Creating the Master</a></li>
+                <li><a href="Status_mondial2010/">📂 Paris Motor Show 2010 Presentation</a></li>
+                <li><a href="Status_mondial2012/">📂 Paris Motor Show 2012 Presentation</a></li>
+            </ul>
 <div id="gallery_container"></div>
 
         <!--End of body content-->
@@ -133,9 +135,7 @@ window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnai
 </script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>

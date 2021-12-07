@@ -27,7 +27,8 @@
 <!-- Menubar -->
 
 <nav class="navbar navbar-expand-md static-top mb-4
-navbar-dark bg-dark
+navbar-dark
+bg-dark
 "><div class="container">
 <!-- This keeps the margins nice -->
         <a class="navbar-brand" href=".">
@@ -117,12 +118,11 @@ Currently research scientist at Institute for Infocomm Research (I2R), an A*STAR
                 <b>Short bio:</b>
                 I received a MSc in automotive engineering with a speciality in embedded systems from the ESTACA engineering school in 2012 and a PhD degree in bio-robotics from the Aix-Marseille University in 2017, both in France. My research is focused on visual perception for robotic applications. I am looking at bio-inspired solutions to achieve efficient localization and navigation using event-based sensors, neuromorphic computation and artificial compound eyes.
             </p>
-        </div>
+        </div>  
 
     </div>
     </div>
 </div>
-
 <p><br></p>
 <!-- CODE to get the social links logo in the page
     <div style="display: inline-block; position:relative; bottom;" >
@@ -179,9 +179,7 @@ https://www.freevisitorcounters.com/
         <script src="assets/js/all-nocdn.js"></script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>

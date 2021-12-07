@@ -21,6 +21,13 @@
         position: absolute;
     }
 </style>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
+<meta property="og:site_name" content="Fabien Colonnier">
+<meta property="og:title" content="Paris Motor Show 2012 Presentation">
+<meta property="og:url" content="https://fabien-colonnier.com/galleries/Status_mondial2012/">
+<meta property="og:description" content="Presentation of the concept at the Paris Motor Show 2012.">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2021-12-07T11:43:12+08:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -28,7 +35,8 @@
 <!-- Menubar -->
 
 <nav class="navbar navbar-expand-md static-top mb-4
-navbar-dark bg-dark
+navbar-dark
+bg-dark
 "><div class="container">
 <!-- This keeps the margins nice -->
         <a class="navbar-brand" href="../../">
@@ -112,31 +120,31 @@ navbar-dark bg-dark
 <ul class="thumbnails">
 <li>
 <a href="P1000910.JPG" class="thumbnail image-reference" title="Three quarter front left">
-            <img src="P1000910.thumbnail.JPG" alt="Three quarter front left"></a>
+            <img src="P1000910.thumbnail.JPG" alt="Three quarter front left" loading="lazy"></a>
         </li>
 <li>
 <a href="P1000911.JPG" class="thumbnail image-reference" title="Left side with the door">
-            <img src="P1000911.thumbnail.JPG" alt="Left side with the door"></a>
+            <img src="P1000911.thumbnail.JPG" alt="Left side with the door" loading="lazy"></a>
         </li>
 <li>
 <a href="P1010022.JPG" class="thumbnail image-reference" title="Front">
-            <img src="P1010022.thumbnail.JPG" alt="Front"></a>
+            <img src="P1010022.thumbnail.JPG" alt="Front" loading="lazy"></a>
         </li>
 <li>
 <a href="P1000912.JPG" class="thumbnail image-reference" title="Three quarter front right">
-            <img src="P1000912.thumbnail.JPG" alt="Three quarter front right"></a>
+            <img src="P1000912.thumbnail.JPG" alt="Three quarter front right" loading="lazy"></a>
         </li>
 <li>
 <a href="P1000913.JPG" class="thumbnail image-reference" title="Three quarter back right">
-            <img src="P1000913.thumbnail.JPG" alt="Three quarter back right"></a>
+            <img src="P1000913.thumbnail.JPG" alt="Three quarter back right" loading="lazy"></a>
         </li>
 <li>
 <a href="P1010024.JPG" class="thumbnail image-reference" title="Back">
-            <img src="P1010024.thumbnail.JPG" alt="Back"></a>
+            <img src="P1010024.thumbnail.JPG" alt="Back" loading="lazy"></a>
         </li>
 <li>
 <a href="P1010023.JPG" class="thumbnail image-reference" title="Three quarter front left (2)">
-            <img src="P1010023.thumbnail.JPG" alt="Three quarter front left (2)"></a>
+            <img src="P1010023.thumbnail.JPG" alt="Three quarter front left (2)" loading="lazy"></a>
 </li>
 </ul>
 </noscript>
@@ -160,9 +168,7 @@ window.addEventListener('resize', function(){renderGallery(jsonContent, thumbnai
 </script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>

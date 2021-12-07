@@ -13,6 +13,10 @@ My list of publications is also available on <a href="https://scholar.google.com
 
 <h1> Journals </h1>
 
+<b>F. Colonnier</b>, L. Della Vedova, G. Orchard, "ESPEE: Event-Based Sensor Pose Estimation Using an Extended Kalman Filter ", <i>MDPI Sensors</i>, Oct. 2021
+<a href="https://www.mdpi.com/1424-8220/21/23/7840/pdf" target="_blank"> PDF </a>, <a href="https://youtu.be/m2R94LlqpEM" target="_blank"> video 1</a>,
+<a href="https://youtu.be/2u4s0GUAWMI" target="_blank"> video 2 </a>
+
 <b>F. Colonnier</b>, S. Ramirez-Martinez, S. Viollet and F. Ruffier, "A bio-inspired sighted robot chases like a hoverfly", <i>Bioinspiration & biomimetics</i>, Jan. 2019 
 <a href="https://iopscience.iop.org/article/10.1088/1748-3190/aaffa4/pdf" target="_blank"> published version</a>, 
 <a href="https://youtu.be/kdjJ6t7d2pM" target="_blank"> video 1</a>, 
