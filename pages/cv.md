@@ -45,10 +45,11 @@ aside {
 	<div style="display: table-row; position: right;">
         <div style="width: 75%; display: table-cell;"> 
 	<b>Research Scientist</b> <br /> 
-	<a href="https://www.a-star.edu.sg/i2r" target="_blank" > Institute for Infocomm Research (I2R) </a>, an A*STAR entity
+	<a href="https://www.a-star.edu.sg/i2r" target="_blank"> Institute for Infocomm Research (I2R) </a>, an A*STAR entity
 	<ul>
-	  <li>Implementating Neuromorphic hardware for robotic applications</li>
-	  <li>Developing a Spiking Neural Network for heading control</li>
+	  <li>Investigating human detection with event-based sensor and neuromorphic computing</li>
+	  <li>Implementing Neuromorphic hardware for robotic applications</li>
+	  <li>Developed a Spiking Neural Network for heading control</li>
 	</ul>
 	</div>	
     
