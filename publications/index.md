@@ -35,6 +35,10 @@ F.L. Roubieu, J.R. Serres, <b>F. Colonnier</b>, N. Franceschini, S. Viollet and 
 
 <h1> Conference proceedings </h1>
 
+G. Haddeler, H.P. Palanivelu, Y.C. Ng, <b>F. Colonnier</b>, A.H. Adiwahono, Z. Li, C-M. Chew, M-Y. Chuah, "Real-time Digital Double Framework to Predict Collapsible Terrains for Legged Robots,"<i>International Conference on Intelligent Robots and Systems (IROS)</i>, Kyoto, Japan, 2022 <a href="https://doi.org/10.1109/IROS47612.2022.9981613" target="_blank"> Link</a>, <a href="https://arxiv.org/pdf/2209.09508.pdf" target="_blank"> PDF</a>
+
+<b>F. Colonnier</b>, A. Seeralan, L. Zhu, "Event-Based Visual Sensing for Human Motion Detection and Classification at Various Distances", <i>Image and Video Technology. PSIVT 2022</i> <a href="https://doi.org/10.1007/978-3-031-26431-3_7" target="_blank"> Link</a>
+
 <b>F. Colonnier</b>, S. Viollet and F. Ruffier, "ACEbot: robotic behaviors provide new insights on insect visual pursuit, motion camouflage and interception", <i>International Conference on Invertebrate Vision ICIV</i>, Bäckaskog Castle, Sweden, August 6-11, 2019
 
 <b>F. Colonnier</b>, L. Della Vedova, R.S.H. Teo and G. Orchard, "Obstacle Avoidance using Event-based Visual Sensor and Time-To-Contact Processing", <i>Australasian Conference on Robotics and Automation</i>, Lincoln, New Zealand, Dec 2018 <a href="https://ssl.linklings.net/conferences/acra/acra2018_proceedings/views/includes/files/pap104s1-file1.pdf" target="_blank"> PDF</a>, <a href="https://linklings.s3.amazonaws.com/organizations/acra/acra2018/submissions/stype101/UGjfY-pap104s1-file2.mp4" target="_blank"> video</a>
