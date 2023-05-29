@@ -37,18 +37,35 @@ aside {
 }
 </style>
 
-<a href="/files/CV_FabienColonnier_full.pdf"> Download full English CV</a> 
+<!-- TODO put a link instead (to a gdrive for example) <a href="/files/CV_FabienColonnier_full.pdf"> Download full English CV</a>  -->
 
 <h1> Experience </h1>
 
 <div style="width: 100%; display: table;">
 	<div style="display: table-row; position: right;">
         <div style="width: 75%; display: table-cell;"> 
+	<b>Senior Research Engineer</b> <br /> 
+	<a href="https://opteran.com" target="_blank"> Opteran </a>
+	<ul>
+	  <li>Develop depth sensing solutions</li>
+	  <li>Lead the perception team</li>
+	</ul>
+	</div>	
+    
+		<div style="display: table-cell; margin: 1.5% 1.5%; vertical-align: top;" >
+	<p style="text-align:right;">
+	Sheffield, UK <br />
+	2023-today</p>
+    	</div>
+    </div>
+
+	<div style="display: table-row; position: right;">
+        <div style="width: 75%; display: table-cell;"> 
 	<b>Research Scientist</b> <br /> 
 	<a href="https://www.a-star.edu.sg/i2r" target="_blank"> Institute for Infocomm Research (I2R) </a>, an A*STAR entity
 	<ul>
-	  <li>Investigating human detection with event-based sensor and neuromorphic computing</li>
-	  <li>Implementing Neuromorphic hardware for robotic applications</li>
+	  <li>Worked on human detection and gesture classification with event-based sensor and neuromorphic computing</li>
+	  <li>Implemented Neuromorphic hardware for robotic applications</li>
 	  <li>Developed a Spiking Neural Network for heading control</li>
 	</ul>
 	</div>	
@@ -56,7 +73,7 @@ aside {
     	<div style="display: table-cell; margin: 1.5% 1.5%; vertical-align: top;" >
 	<p style="text-align:right;">
 	Singapore, SGP <br />
-	2020-today</p>
+	2020-2023</p>
     	</div>
     </div>
 

@@ -12,7 +12,7 @@
 
 <p>
 PhD in bio-inspired robotics, engineer in embedded systems<br>
-Currently research scientist at Institute for Infocomm Research (I2R), an A*STAR entity.<br>
+Currently Senior Research Engineer at Opteran.<br>
 <br>
 </p>
 
