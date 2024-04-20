@@ -13,7 +13,9 @@ My list of publications is also available on <a href="https://scholar.google.com
 
 <h1> Journals </h1>
 
-<b>F. Colonnier</b>, L. Della Vedova, G. Orchard, "ESPEE: Event-Based Sensor Pose Estimation Using an Extended Kalman Filter ", <i>MDPI Sensors</i>, Oct. 2021
+G. Haddeler, H.P. Palanivelu, Y.C. Ng, <b>F. Colonnier</b>, A.H. Adiwahono, Z. Li, C-M. Chew, M-Y. Chuah, "Real-time terrain anomaly perception for safe robot locomotion using a digital double framework", <i>Robotics and Autonomous Systems</i>, Aug. 2023 <a href="https://doi.org/10.1016/j.robot.2023.104512" target="_blank"> Link</a>
+
+<b>F. Colonnier</b>, L. Della Vedova, G. Orchard, "ESPEE: Event-Based Sensor Pose Estimation Using an Extended Kalman Filter", <i>MDPI Sensors</i>, Oct. 2021
 <a href="https://www.mdpi.com/1424-8220/21/23/7840/pdf" target="_blank"> PDF </a>, <a href="https://youtu.be/m2R94LlqpEM" target="_blank"> video 1</a>,
 <a href="https://youtu.be/2u4s0GUAWMI" target="_blank"> video 2 </a>
 
@@ -35,9 +37,11 @@ F.L. Roubieu, J.R. Serres, <b>F. Colonnier</b>, N. Franceschini, S. Viollet and 
 
 <h1> Conference proceedings </h1>
 
-G. Haddeler, H.P. Palanivelu, Y.C. Ng, <b>F. Colonnier</b>, A.H. Adiwahono, Z. Li, C-M. Chew, M-Y. Chuah, "Real-time Digital Double Framework to Predict Collapsible Terrains for Legged Robots,"<i>International Conference on Intelligent Robots and Systems (IROS)</i>, Kyoto, Japan, 2022 <a href="https://doi.org/10.1109/IROS47612.2022.9981613" target="_blank"> Link</a>, <a href="https://arxiv.org/pdf/2209.09508.pdf" target="_blank"> PDF</a>
+Z. Wang, <b>F. Colonnier</b>, J. Zheng, J. Acharya, W. Jiang, K. Huang, "TIRDet: Mono-Modality Thermal InfraRed Object Detection Based on Prior Thermal-To-Visible Translation", <i>Proceedings of the 31st ACM International Conference on Multimedia</i>, Ottawa, Canada, 2023 <a href="https://doi.org/10.1145/3581783.3613849" target="_blank"> Link</a>, <a href="https://oar.a-star.edu.sg/storage/k/krm81ge5g1/tirdet-camera-ready-for-astar.pdf" target="_blank"> PDF</a>
 
-<b>F. Colonnier</b>, A. Seeralan, L. Zhu, "Event-Based Visual Sensing for Human Motion Detection and Classification at Various Distances", <i>Image and Video Technology. PSIVT 2022</i> <a href="https://doi.org/10.1007/978-3-031-26431-3_7" target="_blank"> Link</a>
+G. Haddeler, H.P. Palanivelu, Y.C. Ng, <b>F. Colonnier</b>, A.H. Adiwahono, Z. Li, C-M. Chew, M-Y. Chuah, "Real-time Digital Double Framework to Predict Collapsible Terrains for Legged Robots",<i>International Conference on Intelligent Robots and Systems (IROS)</i>, Kyoto, Japan, 2022 <a href="https://doi.org/10.1109/IROS47612.2022.9981613" target="_blank"> Link</a>, <a href="https://arxiv.org/pdf/2209.09508.pdf" target="_blank"> PDF</a>
+
+<b>F. Colonnier</b>, A. Seeralan, L. Zhu, "Event-Based Visual Sensing for Human Motion Detection and Classification at Various Distances", <i>Image and Video Technology. PSIVT 2022</i> <a href="https://doi.org/10.1007/978-3-031-26431-3_7" target="_blank"> Link</a> <a href="https://oar.a-star.edu.sg/storage/o/oryn55yodk/human-detection-and-gesture-classification.pdf" target="_blank"> PDF</a>
 
 <b>F. Colonnier</b>, S. Viollet and F. Ruffier, "ACEbot: robotic behaviors provide new insights on insect visual pursuit, motion camouflage and interception", <i>International Conference on Invertebrate Vision ICIV</i>, Bäckaskog Castle, Sweden, August 6-11, 2019
 
