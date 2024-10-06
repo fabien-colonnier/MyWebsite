@@ -47,7 +47,7 @@ aside {
 	<b>Senior Research Engineer</b> <br /> 
 	<a href="https://opteran.com" target="_blank"> Opteran </a>
 	<ul>
-	  <li>Develop depth sensing solutions</li>
+	  <li>Develop Visual Inertial Odometry and depth sensing solutions</li>
 	  <li>Lead the perception team</li>
 	</ul>
 	</div>	
