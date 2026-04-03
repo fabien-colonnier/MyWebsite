@@ -9,7 +9,9 @@
 
 
 
-My research interest is mainly focused on visual navigation for robotic application. I use bio-inspired method to solve robotic tasks such as stabilization, pursuit and obstacle avoidance.
+My research interest is mainly focused on visual perception for robotic application. I use bio-inspired and conventional methods to solve robotic tasks such as stabilization, pursuit and obstacle avoidance.
+
+
 
 <h2> Event-based visual sensor </h2>
 
@@ -17,7 +19,13 @@ A nice description of how the sensor works can be found <a href="https://youtu.b
 
 <ul>
 <li>
-<p>A relatively simple event to 3D point matching was used as input measurement of an EKF to perform sensor pose estimation. The algorithm was also adapted for multiple sensors and with mapping it shows good accuracy on the tested environment.<br /> </p>
+<p> Work presenting an extension from the IBM DVS gesture dataset to perform gesture classification from event-based vision sensor. The addition of a detection module allows to limit the complexity of the classifier and to run on a neuromorphic hardware, while being robust to variation of distances and light conditions. It also make it possible to have multiple subject in the frame.<br /> </p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WQ4ldc32J_U?si=2Z_v0jIsc9j8pzHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</li>
+
+<li>
+<p>Event-by-event pose estimation based on a 3D point matching and EKF state estimation. The algorithm was also adapted for multiple sensors and with mapping it shows good accuracy on the tested environment.<br /> </p>
 
 <table style="width:100%; text-align: center;">
 	<tr>
@@ -28,7 +36,7 @@ A nice description of how the sensor works can be found <a href="https://youtu.b
 </li>
 
 <li>
-<p>The Davis240C sensor was used to compute Optic Flow and perform obstacle avoidance with a quadrotor. <br /> </p>
+<p>The Davis240C sensor was used to compute Optic Flow and perform obstacle avoidance with a quadrotor aat up to 2.5m/s. <br /> </p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nn2wyDYJI8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
 <!--video width="560" height="315" controls preload="none" frameborder="0">
